@@ -2,7 +2,6 @@ import requests
 import bs4
 import re
 import os
-# import pprint
 
 def get_directories(url):
 # Recursively retrieves the directory tree and stores it in a list of empty dictionaries
@@ -61,7 +60,9 @@ def get_filenames(url_list):
 
 
 def download_files(url_list, dirname = 'C:/Users/natha/OneDrive - Georgia Institute of Technology/Perlan/perlan-data'):
-
+# Given a list of urls and the filenames available at that url
+# Navigate to the url and download the file to the local machine
+# that is running the script
     for url in url_list:
         (k, v), = url.items()
         for fname in v:
