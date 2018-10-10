@@ -1,0 +1,329 @@
+﻿[General]
+Status=7
+Initiated=20170731T144046.249
+SW Clock=0
+SW Version=3.90.1
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=IMET-1-ABx
+State=1
+Sonde SN=50391A
+BatV0=5.3
+BatVMax=4
+Min Temperature=-5.98
+
+[Flight Balloon]
+State=1
+Name=Unknown
+Age Unknown=0
+Age Years=0
+Age Months=0
+Weight=600
+Filling Weight=900
+Expected Ascent Rate=274.32
+Balloon Launcher=0
+Dereeler=0
+Pibal Light=0
+
+[Flight Station]
+State=1
+Name=Perlan El Calafate
+Operator=PP
+OperatorID=N901EE
+OperatorName=Perlan Project
+Latitude=-50.2831666666667
+Longitude=-72.0483055555556
+Altitude=202.9968
+Barometer Altitude=202.9968
+AltAccuracy=-1
+WMO Block=//
+WMO Station Number=///
+ICAO Station Code=/////
+Mobile Unit Call Sign=/////
+METEO11 Station Number=//
+Coded=0
+Military Code Position=//////
+Launch Altitude=202.9968
+RDF Launch Bearing=0
+RDF Launch Distance=0
+GPS Launch Az Bearing=0
+GPS Launch El Bearing=0
+GPS Launch Latitude=0
+GPS Launch Longitude=0
+GPS Launch Location=0
+Station Installation=0
+Gravity=9.810955
+Rwgs=6360106.297908
+
+[Flight Messages]
+State=1
+RDF Override=0
+Pressure Override=0
+CM Validity=2
+B2 Validity=2
+B3 Validity=2
+SR Validity=2
+TA Validity=2
+FM Validity=2
+UAV Validity=2
+PhysicalTS Interval=1
+PhysicalHS Interval=4.572
+Synoptic=20170731T120000.000
+
+[Station]
+Equipment=S3050
+
+[Calibration]
+State=2
+Sonde Pressure=986.423498969652
+Reference Pressure=986.4
+Scaling Pressure=0.999976177605586
+Pressure Done=20170731T104959.765
+
+[Weather]
+Pressure=986.4
+Barometer Pressure=986.4
+Temperature=6.5
+Wet Bulb Temperature=3.9
+Humidity=66
+Wind Direction=250
+Wind Speed=3.60111202339282
+NWS Civilian Cloud Weather=/////////
+Civilian Cloud Code=/////
+Civilian Present Weather=/////
+BUFR Cloud Amount=
+BUFR Cloud Base=999999999
+BUFR CL=
+BUFR CM=
+BUFR CH=
+Military Cloud Code=///
+Date/Time=20170731T104957.933
+Have WB Temp=0
+State=1
+
+[RTL Warnings]
+Gnd-ISA P=-2.69907292344249
+RS-Gnd P=0.0234989696516773
+RS-Gnd T=-0.0699999999999994
+RS-Gnd U=0.770000000000024
+RS-Gnd A=-10.9968
+
+[Launch]
+Ready=20170731T104959.766
+Detect=20170731T110613.072
+Forced=0
+Launched=20170731T110544.501
+Sample Number=994
+
+[Terminate]
+Detect=20170731T121724.065
+Forced=0
+Reason Original=0
+Ascent Rate=-402.44
+Ascent Threshold=-400.00
+Date/Time=20170731T121724.074
+Highest=20170731T121556.501
+Sample Number=5206
+Pressure=37.0259604521024
+GPM MSL=21752.063886631
+Reason=0
+User Acknowledged=20170731T122054.527
+
+[Sounding Characteristics]
+Min Temperature=-67.9037595082128
+Max Temperature=8.17
+Min Humidity=0.1
+Max Humidity=83.0029485370422
+Min Pressure=37.0259604521024
+Max Wind Speed=55.4346102967127
+Max GPM AGL=21549.067086631
+Final GPM AGL=21549.067086631
+Final Latitude=-50.1365025837634
+Final Longitude=-70.2674344379532
+Max Slant Range=129727.913061931
+Final Slant Range=129727.913061931
+Max Ground Range=127914.885585632
+Final Ground Range=127914.885585632
+Max Elevation=26.2932733529994
+Final Elevation=9.59025605372074
+Final Azimuth=82.6815667885915
+Final Sig Str=999999999
+Ascent Rate=307.874758946564
+Min Satellites=0
+Max Satellites=12
+Final Satellites=12
+
+[Rx Quality]
+0001=0
+0002=0
+0003=2
+0004=1
+0005=1
+0006=0
+0007=0
+0008=0
+0009=3
+0010=0
+0011=0
+0012=0
+0013=0
+0014=0
+0015=1
+0016=0
+0017=0
+0018=0
+0019=0
+0020=1
+0021=0
+0022=0
+0023=0
+0024=0
+0025=0
+0026=0
+0027=0
+0028=0
+0029=1
+0030=0
+0031=0
+0032=1
+0033=0
+0034=0
+0035=1
+0036=1
+0037=1
+0038=0
+0039=0
+0040=0
+0041=0
+0042=0
+0043=0
+0044=0
+0045=0
+0046=0
+0047=0
+0048=0
+0049=0
+0050=0
+0051=0
+0052=1
+0053=0
+0054=1
+0055=1
+0056=0
+0057=0
+0058=2
+0059=0
+0060=0
+0061=0
+0062=0
+0063=0
+0064=0
+0065=1
+0066=0
+0067=0
+0068=0
+0069=1
+0070=0
+0071=0
+
+[Haines Index]
+LowA=2
+LowB=3
+Low=5
+MidA=2
+MidB=2
+Mid=4
+HighA=1
+HighB=1
+High=2
+
+[Tropopause]
+1=1981
+2=3239
+3=3906
+
+[Significant Temperatures]
+0=0
+1=4
+2=18
+3=79
+4=401
+5=503
+6=556
+7=713
+8=1495
+9=1920
+10=2043
+11=2136
+12=2190
+13=2227
+14=2271
+15=2293
+16=2479
+17=2518
+18=2669
+19=2964
+20=3136
+21=3239
+22=3602
+23=3788
+24=4001
+25=4212
+
+[Significant Humidities]
+0=0
+1=86
+2=401
+3=501
+4=722
+5=1177
+6=1216
+7=1788
+8=2493
+9=4212
+
+[Significant Wind Speeds]
+0=0
+1=1
+2=7
+3=259
+4=511
+5=623
+6=850
+7=1079
+8=1359
+9=1761
+10=2305
+11=2481
+12=3241
+13=3598
+14=4212
+
+[Significant Wind Directions]
+0=0
+1=1
+2=114
+3=252
+4=320
+5=767
+6=1673
+7=2226
+8=2738
+9=3057
+10=3162
+11=3287
+12=4212
+
+[Maximum Wind Speeds]
+0=3598
+
+[Freezing Levels]
+0=198.429
+

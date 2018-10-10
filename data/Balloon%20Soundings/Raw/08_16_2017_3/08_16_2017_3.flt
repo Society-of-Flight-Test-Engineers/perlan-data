@@ -1,0 +1,35 @@
+﻿[General]
+Status=1
+Initiated=20170816T120023.824
+SW Clock=0
+SW Version=3.90.1
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=IMET-1-ABx
+State=1
+Sonde SN=12345678
+
+[Flight Balloon]
+State=0
+
+[Flight Station]
+State=0
+
+[Flight Messages]
+State=0
+RDF Override=0
+Pressure Override=0
+
+[Station]
+Equipment=S3050
+
+[Calibration]
+State=2
+

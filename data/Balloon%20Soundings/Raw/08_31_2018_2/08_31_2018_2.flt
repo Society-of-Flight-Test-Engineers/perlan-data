@@ -1,0 +1,306 @@
+﻿[General]
+Status=7
+Flight ID={EC42CB3F-8691-4FCB-AEB8-5EDF6EB24744}
+Initiated=20180831T113215.944
+PC ID={A31818B2-8212-4060-81D2-57464D1F2F0E}
+SW Clock=0
+SW Version=3.107.0
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=IMET-1-ABx
+State=1
+Sonde SN=1234567
+BatV0=0
+BatVMax=4
+Min Temperature=-0.27
+
+[Flight Balloon]
+State=1
+Name=Unknown
+Model=Unknown
+Age Unknown=0
+Age Years=0
+Age Months=0
+Weight=600
+Filling Weight=1500
+Train Length=4.572
+Expected Ascent Rate=304.8
+Balloon Launcher=0
+Dereeler=0
+Pibal Light=0
+
+[Flight Station]
+State=1
+Name=Perlan El Calafate
+Operator=PP
+OperatorID=N901EE
+OperatorName=Perlan Project
+Latitude=-50.2831666666667
+Longitude=-72.0483055555556
+Altitude=202.9968
+Barometer Altitude=202.9968
+AltAccuracy=-1
+WMO Block=//
+WMO Station Number=///
+ICAO Station Code=/////
+Mobile Unit Call Sign=/////
+Launch Altitude=202.9968
+RDF Launch Bearing=270
+RDF Launch Distance=0
+GPS Launch Az Bearing=0
+GPS Launch El Bearing=0
+GPS Launch Latitude=0
+GPS Launch Longitude=0
+GPS Launch Location=0
+Station Installation=0
+Gravity=9.810955
+Rwgs=6360106.297908
+
+[Flight Messages]
+State=1
+RDF Override=0
+Pressure Override=0
+CM Validity=2
+B2 Validity=2
+B3 Validity=2
+SR Validity=2
+TA Validity=2
+FM Validity=2
+UAV Validity=2
+PhysicalTS Interval=1
+PhysicalHS Interval=3.048
+Synoptic=20180831T120000.000
+
+[Station]
+Equipment=S3050
+
+[Calibration]
+State=2
+Sonde Pressure=179.530604354245
+Reference Pressure=989.1
+Scaling Ln Pressure=1
+Pressure Done=20180831T113305.234
+
+[Weather]
+Pressure=989.1
+Barometer Pressure=989.1
+Temperature=13.7
+Wet Bulb Temperature=4.6
+Humidity=16
+Wind Direction=270
+Wind Speed=15.4333372431121
+NWS Civilian Cloud Weather=/////////
+Civilian Cloud Code=/////
+Civilian Present Weather=/////
+BUFR Cloud Amount=
+BUFR Cloud Base=999999999
+BUFR CL=
+BUFR CM=
+BUFR CH=
+Military Cloud Code=///
+Date/Time=20180831T113301.461
+Have WB Temp=0
+State=1
+
+[RTL Warnings]
+Gnd-ISA P=0.000927076557445616
+RS-Gnd P=-809.426879281711
+RS-Gnd T=-71.29
+RS-Gnd U=-1.71
+
+[Launch]
+Ready=20180831T113306.186
+Detect=20180831T113337.067
+Forced=0
+Launched=20180831T105122.501
+Sample Number=-2461
+
+[Terminate]
+Detect=20180831T120819.093
+Forced=1
+Reason Original=30
+Date/Time=20180831T120819.159
+Highest=20180831T120744.501
+Sample Number=2121
+Pressure=41.4647596687846
+GPM MSL=21753.2514481261
+Reason=30
+
+[Weather Terminate]
+Pressure=999999999
+Barometer Pressure=999999999
+Temperature=999999999
+Wet Bulb Temperature=999999999
+Sea Temperature=999999999
+Humidity=999999999
+Wind Direction=999999999
+Wind Speed=999999999
+Date/Time=20180831T120819.113
+
+[Sounding Characteristics]
+Min Temperature=-64.0773390080041
+Max Temperature=13.7
+Min Humidity=2.83969110495011
+Max Humidity=18.1372688468285
+Min Pressure=41.4647596687846
+Max Wind Speed=49.0805929138462
+Max GPM AGL=21550.2546481261
+Final GPM AGL=21550.2546481261
+Final Latitude=-50.2376893361409
+Final Longitude=-70.6745986938477
+Max Slant Range=100250.032898163
+Final Slant Range=100250.032898163
+Max Ground Range=97892.3079805209
+Final Ground Range=97892.3079805209
+Max Elevation=34.060361804747
+Final Elevation=12.4507866076983
+Final Azimuth=87.0414971511068
+Final Sig Str=999999999
+Ascent Rate=283.029286774334
+Min Satellites=0
+Max Satellites=12
+Final Satellites=12
+
+[Rx Quality]
+0001=5
+0002=3
+0003=5
+0004=5
+0005=1
+0006=10
+0007=2
+0008=4
+0009=0
+0010=0
+0011=5
+0012=0
+0013=0
+0014=0
+0015=0
+0016=0
+0017=1
+0018=0
+0019=1
+0020=1
+0021=0
+0022=0
+0023=0
+0024=2
+0025=0
+0026=1
+0027=0
+0028=0
+0029=0
+0030=0
+0031=0
+0032=1
+0033=1
+0034=4
+0035=2
+0036=9
+0037=60
+0038=60
+0039=60
+0040=60
+0041=60
+0042=60
+0043=60
+0044=60
+0045=60
+0046=60
+0047=60
+0048=60
+0049=60
+0050=60
+0051=60
+0052=60
+0053=60
+0054=60
+0055=60
+0056=60
+0057=60
+0058=60
+0059=60
+0060=60
+0061=60
+0062=60
+0063=60
+0064=60
+0065=60
+0066=60
+0067=60
+0068=60
+0069=60
+0070=60
+0071=60
+0072=60
+0073=60
+0074=60
+0075=60
+0076=60
+
+[Haines Index]
+LowA=2
+LowB=3
+Low=5
+MidA=2
+MidB=3
+Mid=5
+HighA=1
+HighB=3
+High=4
+
+[Tropopause]
+1=2463
+2=4363
+
+[Significant Temperatures]
+0=0
+1=1257
+2=2463
+3=2667
+4=2872
+5=3073
+6=3155
+7=3244
+8=3370
+9=4042
+10=4454
+11=4582
+
+[Significant Humidities]
+0=0
+1=4582
+
+[Significant Wind Speeds]
+0=0
+1=2575
+2=3805
+3=3990
+4=4268
+5=4582
+
+[Significant Wind Directions]
+0=0
+1=1
+2=2547
+3=2794
+4=3408
+5=3658
+6=3942
+7=4186
+8=4582
+
+[Maximum Wind Speeds]
+0=4268
+
+[Freezing Levels]
+0=466.482
+

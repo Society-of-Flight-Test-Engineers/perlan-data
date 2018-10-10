@@ -1,0 +1,40 @@
+2017-07-25,07:46:35,Created. (UTC = 2017-07-25,14:46:35)
+2017-07-25,07:46:36,Open Select/Confirm Radiosonde
+2017-07-25,07:46:44,Sonde selected IMET-1-ABx
+2017-07-25,07:46:44,Close Select/Confirm Radiosonde
+2017-07-25,07:56:54,Open Balloon Train
+2017-07-25,07:57:05,Close Balloon Train
+2017-07-25,07:57:07,Open Station Details
+2017-07-25,07:57:09,Close Station Details
+2017-07-25,07:57:11,Open Message Setup
+2017-07-25,07:57:17,Close Message Setup
+2017-07-25,07:57:18,Open Current Weather
+2017-07-25,07:57:18,Real PC/UTC Offset confirmed as -2.99 hours (02:59:37.063)
+2017-07-25,07:57:20,Use radiosonde for current weather
+2017-07-25,07:58:00,Close Current Weather
+2017-07-25,07:58:01,Attempt Ready To Launch
+2017-07-25,07:58:01,Passed Ready To Launch
+2017-07-25,08:00:51,Launch detected (154.9m/s)
+2017-07-25,08:01:11,Graph : PTU
+2017-07-25,08:07:56,Graph : PTU
+2017-07-25,08:07:56,Graph : PTU
+2017-07-25,08:07:59,Graph : Winds
+2017-07-25,08:10:28,Graph : SkewT-LogP
+2017-07-25,08:10:50,Graph : PTU
+2017-07-25,08:11:37,Graph : Winds
+2017-07-25,08:14:35,Graph : SkewT-LogP
+2017-07-25,08:14:45,Graph : Winds
+2017-07-25,08:22:35,Graph : Winds
+2017-07-25,08:32:18,Graph : Winds
+2017-07-25,08:33:32,Graph : SkewT-LogP
+2017-07-25,08:42:44,Graph : Winds
+2017-07-25,08:43:14,Graph : SkewT-LogP
+2017-07-25,08:51:09,Graph : SkewT-LogP
+2017-07-25,08:51:28,Graph : Winds
+2017-07-25,09:58:50,Reloaded. (UTC = 2017-07-25,16:58:50)
+2017-07-25,09:58:51,Graph : PTU
+2017-07-25,09:59:30,Graph : Winds
+2017-07-25,09:59:37,Graph : Density
+2017-07-25,09:59:42,Graph : Flight Path
+2017-07-25,09:59:46,Graph : SkewT-LogP
+2017-07-25,09:59:52,Graph : RAOB

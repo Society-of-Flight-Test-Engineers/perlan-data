@@ -1,0 +1,95 @@
+2017-07-14,08:53:49,Created. (UTC = 2017-07-14,15:53:49)
+2017-07-14,08:53:51,Open Select/Confirm Radiosonde
+2017-07-14,08:54:05,Sonde selected IMET-1-ABx
+2017-07-14,08:54:05,Close Select/Confirm Radiosonde
+2017-07-14,08:54:07,Open Balloon Train
+2017-07-14,08:54:09,Close Balloon Train
+2017-07-14,08:54:11,Open Station Details
+2017-07-14,08:54:13,Close Station Details
+2017-07-14,08:54:15,Open Message Setup
+2017-07-14,08:54:21,Close Message Setup
+2017-07-14,08:54:23,Open Message Setup
+2017-07-14,08:54:30,Close Message Setup
+2017-07-14,08:54:32,Open Current Weather
+2017-07-14,08:56:09,Real PC/UTC Offset confirmed as -2.99 hours (02:59:41.189)
+2017-07-14,08:57:04,Use radiosonde for current weather
+2017-07-14,08:57:08,Close Current Weather
+2017-07-14,08:57:12,Attempt Ready To Launch
+2017-07-14,08:57:12,Passed Ready To Launch
+2017-07-14,08:57:56,Open Message Setup
+2017-07-14,08:57:59,Close Message Setup
+2017-07-14,08:59:29,Launch detected (151.7m/s)
+2017-07-14,08:59:50,Graph : PTU
+2017-07-14,09:02:08,Graph : PTU
+2017-07-14,09:02:08,Graph : PTU
+2017-07-14,09:02:16,Graph : Winds
+2017-07-14,09:03:17,Graph : PTU
+2017-07-14,09:03:23,Graph : Flight Path
+2017-07-14,09:03:29,Graph : Density
+2017-07-14,09:03:30,Graph : SkewT-LogP
+2017-07-14,09:03:35,Graph : PTU
+2017-07-14,09:06:08,Graph : PTU
+2017-07-14,09:06:11,Graph : SkewT-LogP
+2017-07-14,09:06:17,Graph : Winds
+2017-07-14,09:13:53,Graph : Winds
+2017-07-14,09:14:01,Graph : SkewT-LogP
+2017-07-14,09:19:26,Graph : SkewT-LogP
+2017-07-14,09:19:29,Graph : Winds
+2017-07-14,09:27:39,Graph : Winds
+2017-07-14,09:27:52,Graph : SkewT-LogP
+2017-07-14,09:38:48,Graph : SkewT-LogP
+2017-07-14,09:38:49,Graph : Winds
+2017-07-14,09:41:14,Graph : Winds
+2017-07-14,09:41:15,Graph : PTU
+2017-07-14,09:50:18,Graph : PTU
+2017-07-14,09:50:58,Graph : PTU
+2017-07-14,09:55:33,Graph : PTU
+2017-07-14,09:55:36,Graph : Winds
+2017-07-14,09:55:53,Graph : SkewT-LogP
+2017-07-14,09:57:01,Graph : SkewT-LogP
+2017-07-14,09:57:08,Graph : Winds
+2017-07-14,09:58:07,Graph : Density
+2017-07-14,09:58:09,Graph : Flight Path
+2017-07-14,09:58:14,Graph : PTU
+2017-07-14,10:02:12,Graph : SkewT-LogP
+2017-07-14,10:02:15,Graph : Winds
+2017-07-14,10:02:15,Graph : PTU
+2017-07-14,10:06:31,Graph : PTU
+2017-07-14,10:06:35,Graph : Winds
+2017-07-14,10:06:37,Graph : PTU
+2017-07-14,10:06:42,Graph : Winds
+2017-07-14,10:06:49,Graph : SkewT-LogP
+2017-07-14,10:17:21,Graph : SkewT-LogP
+2017-07-14,10:24:14,Graph : Winds
+2017-07-14,10:34:55,Graph : Winds
+2017-07-14,10:35:04,Graph : PTU
+2017-07-14,10:35:20,Graph : SkewT-LogP
+2017-07-14,10:35:30,Graph : Flight Path
+2017-07-14,10:35:33,Graph : Density
+2017-07-14,10:35:35,Graph : Winds
+2017-07-14,10:35:36,Graph : Density
+2017-07-14,10:35:43,Graph : Winds
+2017-07-14,10:41:21,Graph : Winds
+2017-07-14,10:41:24,Graph : SkewT-LogP
+2017-07-14,10:42:24,Graph : Winds
+2017-07-14,10:42:37,Graph : PTU
+2017-07-14,10:49:44,Graph : PTU
+2017-07-14,10:49:55,Graph : SkewT-LogP
+2017-07-14,10:50:03,Graph : Density
+2017-07-14,10:50:04,Graph : Winds
+2017-07-14,10:56:23,Graph : Winds
+2017-07-14,10:56:25,Graph : PTU
+2017-07-14,10:56:32,Graph : Winds
+2017-07-14,11:03:40,Graph : Winds
+2017-07-14,11:03:52,Graph : PTU
+2017-07-14,11:04:16,Graph : Winds
+2017-07-14,11:04:25,Graph : Density
+2017-07-14,11:04:29,Graph : Flight Path
+2017-07-14,11:04:34,Graph : SkewT-LogP
+2017-07-14,11:04:42,Graph : Google Maps
+2017-07-14,11:04:45,Graph : SkewT-LogP
+2017-07-23,19:40:42,Reloaded. (UTC = 2017-07-24,02:40:42)
+2017-07-23,19:40:44,Graph : PTU
+2017-07-23,19:40:49,Manual message Summary
+2017-07-23,19:41:48,Graph : PTU
+2017-07-23,19:41:51,Graph : RAOB

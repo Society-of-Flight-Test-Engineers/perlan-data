@@ -1,0 +1,120 @@
+﻿[General]
+Status=5
+Initiated=20170812T152124.463
+SW Clock=0
+SW Version=3.90.1
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=IMET-1-ABx
+State=1
+Sonde SN=50383A
+
+[Flight Balloon]
+State=1
+Name=Unknown
+Age Unknown=0
+Age Years=0
+Age Months=0
+Weight=600
+Filling Weight=1100
+Expected Ascent Rate=274.32
+Balloon Launcher=0
+Dereeler=0
+Pibal Light=0
+
+[Flight Station]
+State=1
+Name=Perlan El Calafate
+Operator=PP
+OperatorID=N901EE
+OperatorName=Perlan Project
+Latitude=-50.2831666666667
+Longitude=-72.0483055555556
+Altitude=202.9968
+Barometer Altitude=202.9968
+AltAccuracy=-1
+WMO Block=//
+WMO Station Number=///
+ICAO Station Code=/////
+Mobile Unit Call Sign=/////
+METEO11 Station Number=//
+Coded=0
+Military Code Position=//////
+Launch Altitude=202.9968
+RDF Launch Bearing=0
+RDF Launch Distance=0
+GPS Launch Az Bearing=0
+GPS Launch El Bearing=0
+GPS Launch Latitude=0
+GPS Launch Longitude=0
+GPS Launch Location=0
+Station Installation=0
+Gravity=9.810955
+Rwgs=6360106.297908
+
+[Flight Messages]
+State=1
+RDF Override=0
+Pressure Override=0
+CM Validity=2
+B2 Validity=2
+B3 Validity=2
+SR Validity=2
+TA Validity=2
+FM Validity=2
+UAV Validity=2
+PhysicalTS Interval=1
+PhysicalHS Interval=3.048
+Synoptic=20170812T120000.000
+
+[Station]
+Equipment=S3050
+
+[Calibration]
+State=2
+Sonde Pressure=915.96871157405
+Reference Pressure=1010
+Scaling Pressure=1
+Pressure Done=20170812T113326.697
+
+[Weather]
+Pressure=1010
+Barometer Pressure=1010
+Temperature=-4
+Wet Bulb Temperature=-4
+Humidity=100
+Wind Direction=180
+Wind Speed=1.54333372431121
+NWS Civilian Cloud Weather=/////////
+Civilian Cloud Code=/////
+Civilian Present Weather=/////
+BUFR Cloud Amount=
+BUFR Cloud Base=999999999
+BUFR CL=
+BUFR CM=
+BUFR CH=
+Military Cloud Code=///
+Date/Time=20170812T153257.692
+Have WB Temp=0
+State=1
+
+[RTL Warnings]
+Gnd-ISA P=20.9009270765574
+RS-Gnd P=-93.5417418436804
+RS-Gnd T=4.7
+RS-Gnd U=-38.98
+
+[Launch]
+Ready=20170812T113328.043
+Detect=20170812T113403.162
+Forced=0
+Launched=20170812T113054.501
+Sample Number=-129
+

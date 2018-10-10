@@ -1,0 +1,41 @@
+2018-08-28,13:37:23.523,Created. (UTC = 2018-08-28,16:37:23)
+2018-08-28,13:37:25.107,Open Select/Confirm Radiosonde
+2018-08-28,13:37:38.991,Sonde selected IMET-4-AB
+2018-08-28,13:37:39.005,Close Select/Confirm Radiosonde
+2018-08-28,13:37:39.997,Open Balloon Train
+2018-08-28,13:37:41.495,Close Balloon Train
+2018-08-28,13:37:42.529,Open Station Details
+2018-08-28,13:37:43.581,Close Station Details
+2018-08-28,13:37:44.948,Open Message Setup
+2018-08-28,13:37:54.849,Close Message Setup
+2018-08-28,13:37:56.867,Open Current Weather
+2018-08-28,13:37:58.147,Close Current Weather
+2018-08-28,13:48:13.124,Open Current Weather
+2018-08-28,13:48:15.167,Use radiosonde for current weather
+2018-08-28,13:48:22.424,Close Current Weather
+2018-08-28,13:48:23.703,Attempt Ready To Launch
+2018-08-28,13:48:23.719,No radiosonde GNSS data received
+2018-08-28,13:54:29.472,Program closed
+2018-08-28,13:56:32.345,Reloaded. (UTC = 2018-08-28,16:56:32)
+2018-08-28,13:58:08.035,Open Current Weather
+2018-08-28,13:58:10.692,Use ISA for current weather
+2018-08-28,13:58:11.879,Close Current Weather
+2018-08-28,13:58:12.795,Attempt Ready To Launch
+2018-08-28,13:58:15.791,Equipment unknown
+2018-08-28,13:58:19.272,Attempt Ready To Launch
+2018-08-28,13:58:21.988,Equipment unknown
+2018-08-28,13:58:22.326,Real PC/UTC Offset confirmed as -3.00 hours (03:00:14.713)
+2018-08-28,13:59:15.374,Open Select/Confirm Radiosonde
+2018-08-28,13:59:22.184,Sonde selected IMET-4-AB
+2018-08-28,13:59:22.202,Close Select/Confirm Radiosonde
+2018-08-28,13:59:22.341,Real PC/UTC Offset confirmed as -3.00 hours (03:00:14.687)
+2018-08-28,13:59:26.185,Attempt Ready To Launch
+2018-08-28,13:59:28.250,Equipment unknown
+2018-08-28,13:59:30.821,Open Select/Confirm Radiosonde
+2018-08-28,13:59:32.031,Restart Radiosonde
+2018-08-28,13:59:32.337,Real PC/UTC Offset confirmed as -3.00 hours (03:00:14.675)
+2018-08-28,13:59:39.838,Sonde selected IMET-4-AB
+2018-08-28,13:59:39.848,Close Select/Confirm Radiosonde
+2018-08-28,13:59:47.369,Real PC/UTC Offset confirmed as -3.00 hours (03:00:14.668)
+2018-08-28,13:59:50.297,Attempt Ready To Launch
+2018-08-28,13:59:52.048,Equipment unknown

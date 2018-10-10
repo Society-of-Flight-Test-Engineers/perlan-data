@@ -1,0 +1,177 @@
+﻿[General]
+Status=7
+Initiated=20170907T101723.462
+SW Clock=0
+SW Version=3.98.0
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=IMET-1-ABx
+State=1
+Sonde SN=09072017
+BatV0=0
+BatVMax=5.2
+Min Temperature=21.94
+
+[Flight Balloon]
+State=1
+Name=Unknown
+Age Unknown=0
+Age Years=0
+Age Months=0
+Weight=900
+Filling Weight=1100
+Expected Ascent Rate=274.32
+Balloon Launcher=0
+Dereeler=0
+Pibal Light=0
+
+[Flight Station]
+State=1
+Name=Perlan El Calafate
+Operator=PP
+OperatorID=N901EE
+OperatorName=Perlan Project
+Latitude=-50.2831666666667
+Longitude=-72.0483055555556
+Altitude=202.9968
+Barometer Altitude=202.9968
+AltAccuracy=-1
+WMO Block=//
+WMO Station Number=///
+ICAO Station Code=/////
+Mobile Unit Call Sign=/////
+METEO11 Station Number=//
+Coded=0
+Military Code Position=//////
+Launch Altitude=202.9968
+RDF Launch Bearing=270
+RDF Launch Distance=0
+GPS Launch Az Bearing=0
+GPS Launch El Bearing=0
+GPS Launch Latitude=0
+GPS Launch Longitude=0
+GPS Launch Location=0
+Station Installation=0
+Gravity=9.810955
+Rwgs=6360106.297908
+
+[Flight Messages]
+State=1
+RDF Override=0
+Pressure Override=0
+CM Validity=2
+B2 Validity=2
+B3 Validity=2
+SR Validity=2
+TA Validity=2
+FM Validity=2
+UAV Validity=2
+PhysicalTS Interval=10
+PhysicalHS Interval=499.872
+Synoptic=20170907T120000.000
+
+[Station]
+Equipment=S3050
+
+[Calibration]
+State=2
+Sonde Pressure=882.137608519326
+Reference Pressure=993
+Scaling Ln Pressure=1
+Pressure Done=20170907T102719.339
+
+[Weather]
+Pressure=993
+Barometer Pressure=993
+Temperature=7
+Wet Bulb Temperature=-1
+Humidity=5
+Wind Direction=320
+Wind Speed=7.20222404678565
+NWS Civilian Cloud Weather=/////////
+Civilian Cloud Code=/////
+Civilian Present Weather=/////
+BUFR Cloud Amount=
+BUFR Cloud Base=999999999
+BUFR CL=
+BUFR CM=
+BUFR CH=
+Military Cloud Code=///
+Date/Time=20170907T101915.856
+Have WB Temp=1
+State=1
+
+[RTL Warnings]
+Gnd-ISA P=3.90092707655742
+RS-Gnd P=-109.915298237751
+RS-Gnd T=-6.04
+RS-Gnd U=61.84
+
+[Launch]
+Ready=20170907T102720.097
+Detect=20170907T102744.074
+Forced=0
+Launched=20170907T102516.501
+Sample Number=-111
+
+[Terminate]
+Detect=20170907T103932.227
+Forced=0
+Reason Original=2
+Ascent Rate=59.37
+Ascent Threshold=60.00
+Date/Time=20170907T103932.238
+Highest=20170907T103813.501
+Sample Number=666
+Pressure=682.713956524588
+GPM MSL=3158.32396373215
+Reason=1
+Forced Acknowledge=20170907T104135.629
+
+[Sounding Characteristics]
+Min Temperature=-13.7739742796275
+Max Temperature=7
+Min Humidity=5
+Max Humidity=94.9803843016253
+Min Pressure=682.713956524588
+Max Wind Speed=24.4755362699127
+Max GPM AGL=2955.32716373215
+Final GPM AGL=2955.32716373215
+Final Latitude=-50.3787536621094
+Final Longitude=-72.653491973877
+Max Slant Range=53257.2167069232
+Final Slant Range=44395.4241462386
+Max Ground Range=53268.1688044999
+Final Ground Range=44296.9443308436
+Max Elevation=3.81700256622601
+Final Elevation=3.81700256622601
+Final Azimuth=256.129041307788
+Final Sig Str=999999999
+Ascent Rate=228.216463320463
+Min Satellites=0
+Max Satellites=12
+Final Satellites=12
+
+[Rx Quality]
+0001=1
+0002=0
+0003=0
+0004=0
+0005=0
+0006=0
+0007=0
+0008=0
+0009=0
+0010=1
+0011=1
+0012=2
+0013=35
+0014=60
+

@@ -1,0 +1,20 @@
+2018-08-02,16:02:46.718,Created. (UTC = 2018-08-02,19:02:46)
+2018-08-02,16:02:48.370,Open Select/Confirm Radiosonde
+2018-08-02,16:03:11.985,Sonde selected IMET-1-ABx
+2018-08-02,16:03:11.995,Close Select/Confirm Radiosonde
+2018-08-02,16:03:14.219,Open Balloon Train
+2018-08-02,16:03:16.641,Close Balloon Train
+2018-08-02,16:03:18.144,Open Station Details
+2018-08-02,16:03:19.804,Close Station Details
+2018-08-02,16:03:20.896,Open Message Setup
+2018-08-02,16:03:26.966,Close Message Setup
+2018-08-02,16:03:28.280,Open Current Weather
+2018-08-02,16:03:29.571,Use ISA for current weather
+2018-08-02,16:03:38.580,Close Current Weather
+2018-08-02,16:03:39.787,Attempt Ready To Launch
+2018-08-02,16:03:39.800,No radiosonde GNSS data received
+2018-08-02,16:05:15.594,Real PC/UTC Offset confirmed as -3.00 hours (02:59:58.409)
+2018-08-02,16:05:21.715,Attempt Ready To Launch
+2018-08-02,16:05:23.529,Passed Ready To Launch
+2018-08-02,16:05:27.125,Abort Launch
+2018-08-02,16:05:39.203,Program closed

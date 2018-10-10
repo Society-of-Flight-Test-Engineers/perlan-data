@@ -1,0 +1,49 @@
+2017-08-16,07:45:36,Created. (UTC = 2017-08-16,10:45:16)
+2017-08-16,07:45:39,Open Select/Confirm Radiosonde
+2017-08-16,07:45:43,Sonde selected IMET-1-ABx
+2017-08-16,07:45:43,Close Select/Confirm Radiosonde
+2017-08-16,07:45:43,Real PC/UTC Offset confirmed as -2.99 hours (02:59:40.408)
+2017-08-16,07:45:44,Open Balloon Train
+2017-08-16,07:45:46,Close Balloon Train
+2017-08-16,07:45:47,Open Station Details
+2017-08-16,07:45:50,Close Station Details
+2017-08-16,07:45:52,Open Message Setup
+2017-08-16,07:45:53,Close Message Setup
+2017-08-16,07:45:55,Open Message Setup
+2017-08-16,07:46:00,Close Message Setup
+2017-08-16,07:46:05,Open Current Weather
+2017-08-16,07:46:07,Use radiosonde for current weather
+2017-08-16,07:46:20,Close Current Weather
+2017-08-16,07:46:23,Attempt Ready To Launch
+2017-08-16,07:46:23,Passed Ready To Launch
+2017-08-16,07:55:41,Launch detected (159.3m/s)
+2017-08-16,07:56:02,Graph : PTU
+2017-08-16,07:58:56,Graph : PTU
+2017-08-16,07:58:56,Graph : PTU
+2017-08-16,07:58:58,Graph : Winds
+2017-08-16,08:00:10,Graph : SkewT-LogP
+2017-08-16,08:00:12,Graph : Winds
+2017-08-16,08:18:25,Graph : SkewT-LogP
+2017-08-16,08:18:46,Graph : Winds
+2017-08-16,08:30:26,Graph : SkewT-LogP
+2017-08-16,08:30:36,Graph : Winds
+2017-08-16,08:38:40,Graph : SkewT-LogP
+2017-08-16,08:42:05,Graph : Winds
+2017-08-16,08:46:41,Graph : SkewT-LogP
+2017-08-16,08:49:35,Graph : Winds
+2017-08-16,08:58:47,Graph : PTU
+2017-08-16,08:58:54,Graph : PTU
+2017-08-16,09:00:05,Graph : Winds
+2017-08-16,09:00:10,Graph : Density
+2017-08-16,09:00:15,Graph : Flight Path
+2017-08-16,09:00:19,Graph : SkewT-LogP
+2017-08-16,09:16:03,Reloaded. (UTC = 2017-08-16,16:16:03)
+2017-08-16,09:16:04,Graph : PTU
+2017-08-16,09:16:08,Graph : Winds
+2017-08-16,09:16:26,Graph : SkewT-LogP
+2017-08-16,09:16:46,Graph : RAOB
+2017-08-16,09:46:05,Graph : Winds
+2017-08-16,09:48:11,Graph : SkewT-LogP
+2017-08-16,09:48:20,Graph : RAOB
+2017-08-16,12:03:13,Open Select/Confirm Radiosonde
+2017-08-16,12:03:15,Close Select/Confirm Radiosonde

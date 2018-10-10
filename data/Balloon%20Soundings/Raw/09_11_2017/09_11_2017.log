@@ -1,0 +1,30 @@
+2017-09-11,07:21:49,Created. (UTC = 2017-09-11,10:21:49)
+2017-09-11,07:21:51,Open Select/Confirm Radiosonde
+2017-09-11,07:22:01,Sonde selected IMET-1-ABx
+2017-09-11,07:22:01,Close Select/Confirm Radiosonde
+2017-09-11,07:22:02,Open Balloon Train
+2017-09-11,07:22:04,Close Balloon Train
+2017-09-11,07:22:05,Open Station Details
+2017-09-11,07:22:07,Close Station Details
+2017-09-11,07:22:08,Open Message Setup
+2017-09-11,07:22:13,Close Message Setup
+2017-09-11,07:22:15,Open Current Weather
+2017-09-11,07:22:28,Use ISA for current weather
+2017-09-11,07:22:40,Close Current Weather
+2017-09-11,07:22:41,Open Select/Confirm Radiosonde
+2017-09-11,07:22:52,Sonde selected IMET-1-ABx
+2017-09-11,07:22:52,Close Select/Confirm Radiosonde
+2017-09-11,07:26:59,Attempt Ready To Launch
+2017-09-11,07:26:59,Insufficient pre-launch pressure readings
+2017-09-11,07:27:33,Attempt Ready To Launch
+2017-09-11,07:27:33,Insufficient pre-launch pressure readings
+2017-09-11,07:27:44,Real PC/UTC Offset confirmed as -3.00 hours (02:59:55.817)
+2017-09-11,07:27:49,Attempt Ready To Launch
+2017-09-11,07:27:54,Passed Ready To Launch
+2017-09-11,07:28:06,Graph : Scrolling
+2017-09-11,07:28:17,Graph : Scrolling
+2017-09-11,07:28:28,Launch detected (155.8m/s)
+2017-09-11,07:28:48,Launch site estimation Lat:-50.313180 Long:-72.798216
+2017-09-11,07:28:49,Graph : PTU
+2017-09-11,07:28:58,Graph : SkewT-LogP
+2017-09-11,07:29:06,Graph : Winds

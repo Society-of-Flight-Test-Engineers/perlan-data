@@ -1,0 +1,301 @@
+﻿[General]
+Status=7
+Initiated=20170716T142347.169
+SW Clock=0
+SW Version=3.90.1
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=IMET-1-ABx
+State=1
+Sonde SN=50332A
+BatV0=5.2
+BatVMax=4.2
+Min Temperature=-4.12
+
+[Flight Balloon]
+State=1
+Name=Unknown
+Age Unknown=0
+Age Years=0
+Age Months=0
+Weight=600
+Filling Weight=1400
+Expected Ascent Rate=330
+Balloon Launcher=0
+Dereeler=0
+Pibal Light=0
+
+[Flight Station]
+State=1
+Name=Perlan El Calafate
+Operator=PP
+OperatorID=N901EE
+OperatorName=Perlan Project
+Latitude=-50.2831666666667
+Longitude=-72.0483055555556
+Altitude=203
+Barometer Altitude=203
+AltAccuracy=-1
+WMO Block=//
+WMO Station Number=///
+ICAO Station Code=/////
+Mobile Unit Call Sign=/////
+METEO11 Station Number=//
+Coded=0
+Military Code Position=//////
+Launch Altitude=203
+RDF Launch Bearing=0
+RDF Launch Distance=0
+GPS Launch Az Bearing=0
+GPS Launch El Bearing=0
+GPS Launch Latitude=0
+GPS Launch Longitude=0
+GPS Launch Location=0
+Station Installation=0
+Gravity=9.810955
+Rwgs=6360106.297908
+
+[Flight Messages]
+State=1
+RDF Override=0
+Pressure Override=0
+CM Validity=2
+B2 Validity=2
+B3 Validity=2
+SR Validity=2
+TA Validity=2
+FM Validity=2
+UAV Validity=2
+PhysicalTS Interval=1
+PhysicalHS Interval=5
+Synoptic=20170716T120000.000
+
+[Station]
+Equipment=S3050
+
+[Calibration]
+State=2
+Sonde Pressure=997.289498608784
+Reference Pressure=997.3
+Scaling Pressure=1.00001052993261
+Pressure Done=20170716T104900.237
+
+[Weather]
+Pressure=997.3
+Barometer Pressure=997.3
+Temperature=8.5
+Wet Bulb Temperature=2.9
+Humidity=35
+Wind Direction=0
+Wind Speed=0
+NWS Civilian Cloud Weather=/////////
+Civilian Cloud Code=/////
+Civilian Present Weather=/////
+BUFR Cloud Amount=
+BUFR Cloud Base=999999999
+BUFR CL=
+BUFR CM=
+BUFR CH=
+Military Cloud Code=///
+Date/Time=20170716T104856.762
+Have WB Temp=0
+State=1
+
+[RTL Warnings]
+Gnd-ISA P=8.20130407764066
+RS-Gnd P=-0.0105013912164194
+RS-Gnd T=-0.5
+RS-Gnd U=0.110000000000014
+RS-Gnd A=8
+
+[Launch]
+Ready=20170716T104900.238
+Detect=20170716T105328.069
+Forced=0
+Launched=20170716T105258.501
+Sample Number=968
+
+[Haines Index]
+LowA=2
+LowB=3
+Low=5
+MidA=2
+MidB=3
+Mid=5
+HighA=1
+HighB=2
+High=3
+
+[Tropopause]
+1=2072
+
+[Significant Temperatures]
+0=0
+1=1
+2=3
+3=16
+4=64
+5=99
+6=205
+7=349
+8=472
+9=653
+10=730
+11=834
+12=1556
+13=1895
+14=1921
+15=2072
+16=2246
+17=2299
+18=2469
+19=2602
+20=2710
+
+[Significant Humidities]
+0=0
+1=464
+2=732
+3=1324
+4=1595
+5=2710
+
+[Significant Mandetory]
+1=2663.645
+
+[Significant Wind Speeds]
+0=0
+1=1
+2=4
+3=102
+4=294
+5=481
+6=819
+7=1267
+8=2053
+9=2265
+10=2595
+11=2710
+
+[Significant Wind Directions]
+0=0
+1=1
+2=121
+3=213
+4=358
+5=573
+6=708
+7=859
+8=2093
+9=2710
+
+[Maximum Wind Speeds]
+0=2053
+
+[Freezing Levels]
+0=230.000
+
+[Terminate]
+Detect=20170716T114621.083
+Forced=0
+Reason Original=0
+Ascent Rate=-409.33
+Ascent Threshold=-400.00
+Date/Time=20170716T114621.218
+Highest=20170716T114438.501
+Sample Number=4068
+Pressure=67.9870708475851
+GPM MSL=18160.8813222501
+Reason=0
+Forced Acknowledge=20170716T114722.688
+Incomplete Report AdfAdf=-1
+
+[Sounding Characteristics]
+Min Temperature=-70.36
+Max Temperature=9.53
+Min Humidity=2.88007421259527
+Max Humidity=68.8218653537709
+Min Pressure=67.9870708475851
+Max Wind Speed=52.634477353836
+Max GPM AGL=17957.8813222501
+Final GPM AGL=17957.8813222501
+Final Latitude=-49.8725885663714
+Final Longitude=-70.8577488490513
+Max Slant Range=98176.4655522195
+Final Slant Range=98176.4655522195
+Max Ground Range=96512.1203925621
+Final Ground Range=96512.1203925621
+Max Elevation=25.8518411251458
+Final Elevation=10.565038470946
+Final Azimuth=61.7943412402505
+Final Sig Str=999999999
+Ascent Rate=348.402690864836
+Min Satellites=0
+Max Satellites=12
+Final Satellites=12
+
+[Rx Quality]
+0001=4
+0002=3
+0003=0
+0004=2
+0005=9
+0006=26
+0007=34
+0008=41
+0009=48
+0010=40
+0011=22
+0012=20
+0013=6
+0014=6
+0015=0
+0016=1
+0017=0
+0018=0
+0019=0
+0020=4
+0021=1
+0022=1
+0023=1
+0024=0
+0025=0
+0026=0
+0027=0
+0028=0
+0029=0
+0030=0
+0031=2
+0032=0
+0033=0
+0034=0
+0035=0
+0036=2
+0037=1
+0038=1
+0039=4
+0040=2
+0041=1
+0042=0
+0043=0
+0044=1
+0045=0
+0046=0
+0047=0
+0048=1
+0049=0
+0050=0
+0051=0
+0052=0
+0053=0
+
+[Equipment]
+System Status=0
+

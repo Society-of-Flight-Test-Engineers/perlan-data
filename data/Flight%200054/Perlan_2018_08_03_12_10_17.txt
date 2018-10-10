@@ -1,0 +1,3 @@
+Perlan Ground Station Log file 2018-08-03 12:10:17
+Software version 2.47
+

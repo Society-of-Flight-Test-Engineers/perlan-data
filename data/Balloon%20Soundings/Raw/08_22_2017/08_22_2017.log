@@ -1,0 +1,24 @@
+2017-08-22,07:00:18,Created. (UTC = 2017-08-22,10:00:18)
+2017-08-22,07:00:20,Open Select/Confirm Radiosonde
+2017-08-22,07:00:57,Sonde selected IMET-1-ABx
+2017-08-22,07:00:57,Close Select/Confirm Radiosonde
+2017-08-22,07:00:59,Open Balloon Train
+2017-08-22,07:01:01,Close Balloon Train
+2017-08-22,07:01:04,Open Station Details
+2017-08-22,07:02:40,Close Station Details
+2017-08-22,07:02:42,Open Message Setup
+2017-08-22,07:02:50,Close Message Setup
+2017-08-22,07:02:52,Open Current Weather
+2017-08-22,07:04:40,Close Current Weather
+2017-08-22,07:10:18,Real PC/UTC Offset confirmed as -2.99 hours (02:59:39.225)
+2017-08-22,07:10:37,Attempt Ready To Launch
+2017-08-22,07:10:45,Open Current Weather
+2017-08-22,07:10:56,Use radiosonde for current weather
+2017-08-22,07:11:02,Close Current Weather
+2017-08-22,07:11:04,Attempt Ready To Launch
+2017-08-22,07:11:08,Open Current Weather
+2017-08-22,07:11:10,Use radiosonde for current weather
+2017-08-22,07:11:13,Close Current Weather
+2017-08-22,07:11:15,Attempt Ready To Launch
+2017-08-22,07:11:20,Passed Ready To Launch
+2017-08-22,07:11:49,Launch detected (154.3m/s)

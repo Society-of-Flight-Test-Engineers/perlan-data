@@ -1,0 +1,35 @@
+2018-08-11,14:43:36.782,Created. (UTC = 2018-08-11,17:43:36)
+2018-08-11,14:43:38.050,Open Balloon Train
+2018-08-11,14:43:41.698,Close Balloon Train
+2018-08-11,14:43:43.519,Open Select/Confirm Radiosonde
+2018-08-11,14:44:18.208,Sonde selected IMET-1-ABx
+2018-08-11,14:44:18.218,Close Select/Confirm Radiosonde
+2018-08-11,14:44:24.146,Open Station Details
+2018-08-11,14:44:26.842,Close Station Details
+2018-08-11,14:44:28.146,Open Message Setup
+2018-08-11,14:44:42.267,Close Message Setup
+2018-08-11,15:10:31.411,Open Current Weather
+2018-08-11,15:10:33.055,Use radiosonde for current weather
+2018-08-11,15:10:53.677,Close Current Weather
+2018-08-11,15:10:54.904,Attempt Ready To Launch
+2018-08-11,15:10:54.919,No radiosonde GNSS data received
+2018-08-11,15:12:21.870,Real PC/UTC Offset confirmed as -3.00 hours (02:59:57.449)
+2018-08-11,15:12:37.216,Attempt Ready To Launch
+2018-08-11,15:12:37.487,Passed Ready To Launch
+2018-08-11,15:13:44.948,Launch detected (150.2m/s)
+2018-08-11,15:14:04.959,Launch site Lat:-50.283306 Long:-72.047249
+2018-08-11,15:20:33.250,Graph : PTU
+2018-08-11,15:21:28.463,Graph : Winds
+2018-08-11,16:30:30.356,Graph : Google Maps
+2018-08-11,16:35:03.197,Graph : Winds
+2018-08-11,17:07:00.485,Graph : Google Maps
+2018-08-11,17:07:25.026,Graph : Winds
+2018-08-11,17:08:35.010,Graph : Google Maps
+2018-08-11,17:08:46.330,Graph : PTU
+2018-08-11,17:09:54.361,Graph : Winds
+2018-08-11,17:10:01.571,Graph : Density
+2018-08-11,17:10:09.474,Graph : Flight Path
+2018-08-11,17:10:13.299,Graph : SkewT-LogP
+2018-08-11,17:10:17.507,Graph : Google Maps
+2018-08-11,17:10:28.922,Graph : PTU
+2018-08-11,17:11:03.402,Graph : Winds

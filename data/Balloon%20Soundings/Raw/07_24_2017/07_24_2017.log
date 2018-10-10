@@ -1,0 +1,62 @@
+2017-07-24,07:11:40,Created. (UTC = 2017-07-24,14:11:40)
+2017-07-24,07:11:41,Open Select/Confirm Radiosonde
+2017-07-24,07:11:47,Sonde selected IMET-1-ABx
+2017-07-24,07:11:47,Close Select/Confirm Radiosonde
+2017-07-24,07:11:49,Open Balloon Train
+2017-07-24,07:12:01,Close Balloon Train
+2017-07-24,07:12:02,Open Station Details
+2017-07-24,07:12:04,Close Station Details
+2017-07-24,07:12:05,Open Message Setup
+2017-07-24,07:12:08,Close Message Setup
+2017-07-24,07:12:10,Open Message Setup
+2017-07-24,07:12:15,Close Message Setup
+2017-07-24,07:27:37,Real PC/UTC Offset confirmed as -2.99 hours (02:59:37.438)
+2017-07-24,07:29:43,Open Current Weather
+2017-07-24,07:29:45,Use radiosonde for current weather
+2017-07-24,07:31:01,Close Current Weather
+2017-07-24,07:31:04,Attempt Ready To Launch
+2017-07-24,07:31:04,Passed Ready To Launch
+2017-07-24,07:33:04,Launch detected (153.5m/s)
+2017-07-24,07:33:25,Graph : PTU
+2017-07-24,07:40:28,Graph : PTU
+2017-07-24,07:40:28,Graph : PTU
+2017-07-24,07:40:30,Graph : Winds
+2017-07-24,07:40:40,Graph : RAOB
+2017-07-24,07:41:04,Graph : SkewT-LogP
+2017-07-24,07:41:22,Graph : Winds
+2017-07-24,07:43:13,Graph : SkewT-LogP
+2017-07-24,07:43:23,Graph : RAOB
+2017-07-24,07:45:35,Graph : Winds
+2017-07-24,07:45:51,Graph : RAOB
+2017-07-24,07:49:35,Graph : RAOB
+2017-07-24,07:51:57,Graph : Winds
+2017-07-24,07:51:59,Graph : PTU
+2017-07-24,07:56:15,Graph : PTU
+2017-07-24,07:56:18,Graph : Winds
+2017-07-24,07:59:39,Graph : Density
+2017-07-24,07:59:42,Graph : PTU
+2017-07-24,08:00:00,Graph : RAOB
+2017-07-24,08:02:39,Graph : Winds
+2017-07-24,08:09:53,Graph : SkewT-LogP
+2017-07-24,08:10:21,Graph : Winds
+2017-07-24,08:15:19,Graph : SkewT-LogP
+2017-07-24,08:16:00,Graph : Winds
+2017-07-24,08:16:32,Graph : Winds
+2017-07-24,08:16:38,Graph : Winds
+2017-07-24,08:20:37,Graph : Winds
+2017-07-24,08:20:40,Graph : SkewT-LogP
+2017-07-24,08:26:14,Graph : SkewT-LogP
+2017-07-24,08:27:37,Graph : Winds
+2017-07-24,08:28:42,Graph : RAOB
+2017-07-24,08:28:56,Graph : SkewT-LogP
+2017-07-24,08:35:03,Graph : SkewT-LogP
+2017-07-24,08:35:11,Graph : Winds
+2017-07-24,08:37:25,Graph : Winds
+2017-07-24,09:22:32,Reloaded. (UTC = 2017-07-24,16:22:32)
+2017-07-24,09:22:34,Graph : PTU
+2017-07-24,09:23:28,Graph : Winds
+2017-07-24,09:23:41,Graph : Density
+2017-07-24,09:23:47,Graph : Flight Path
+2017-07-24,09:23:53,Graph : SkewT-LogP
+2017-07-24,09:24:04,Graph : RAOB
+2017-07-24,09:36:49,Graph : Winds

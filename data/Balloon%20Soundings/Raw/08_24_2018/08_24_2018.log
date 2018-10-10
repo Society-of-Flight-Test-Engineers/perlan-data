@@ -1,0 +1,49 @@
+2018-08-24,07:42:46.259,Created. (UTC = 2018-08-24,10:42:46)
+2018-08-24,07:42:47.523,Open Select/Confirm Radiosonde
+2018-08-24,07:42:57.849,Sonde selected IMET-4-AB
+2018-08-24,07:42:57.861,Close Select/Confirm Radiosonde
+2018-08-24,07:42:59.121,Open Balloon Train
+2018-08-24,07:43:00.725,Close Balloon Train
+2018-08-24,07:43:01.542,Open Station Details
+2018-08-24,07:43:02.661,Close Station Details
+2018-08-24,07:43:03.741,Open Message Setup
+2018-08-24,07:43:09.391,Close Message Setup
+2018-08-24,07:43:11.493,Open Current Weather
+2018-08-24,07:43:13.092,Use ISA for current weather
+2018-08-24,07:43:19.419,Close Current Weather
+2018-08-24,08:01:07.979,Open Current Weather
+2018-08-24,08:01:09.801,Use radiosonde for current weather
+2018-08-24,08:01:16.544,Close Current Weather
+2018-08-24,08:01:52.947,Attempt Ready To Launch
+2018-08-24,08:01:52.996,No radiosonde GNSS data received
+2018-08-24,08:02:45.793,Attempt Ready To Launch
+2018-08-24,08:02:45.822,Passed Ready To Launch
+2018-08-24,08:03:01.184,Real PC/UTC Offset confirmed as -3.00 hours (03:00:15.819)
+2018-08-24,08:04:36.283,Launch detected (158.6m/s)
+2018-08-24,08:04:56.282,Launch site Lat:-50.283379 Long:-72.047302
+2018-08-24,08:06:55.860,Graph : PTU
+2018-08-24,08:12:19.690,Graph : Winds
+2018-08-24,08:17:29.249,Graph : PTU
+2018-08-24,08:19:25.673,Graph : Winds
+2018-08-24,08:19:45.602,Graph : PTU
+2018-08-24,08:23:27.746,Graph : Winds
+2018-08-24,08:25:49.296,Graph : SkewT-LogP
+2018-08-24,09:31:37.447,Graph : Density
+2018-08-24,09:31:38.015,Graph : Winds
+2018-08-24,09:31:39.303,Graph : Flight Path
+2018-08-24,09:31:40.438,Graph : Density
+2018-08-24,09:31:43.198,Graph : Winds
+2018-08-24,09:32:45.751,Graph : PTU
+2018-08-24,09:33:52.639,Graph : Winds
+2018-08-24,09:33:57.455,Graph : Density
+2018-08-24,09:34:01.223,Graph : Flight Path
+2018-08-24,09:34:05.198,Graph : SkewT-LogP
+2018-08-24,09:34:29.038,Graph : Flight Path
+2018-08-24,09:34:29.742,Graph : Density
+2018-08-24,09:34:30.431,Graph : Winds
+2018-08-24,09:34:31.030,Graph : PTU
+2018-08-24,09:34:52.184,Graph : Winds
+2018-08-24,09:34:52.966,Graph : Density
+2018-08-24,09:34:53.270,Graph : Flight Path
+2018-08-24,09:34:53.694,Graph : SkewT-LogP
+2018-08-24,09:34:54.096,Graph : Google Maps

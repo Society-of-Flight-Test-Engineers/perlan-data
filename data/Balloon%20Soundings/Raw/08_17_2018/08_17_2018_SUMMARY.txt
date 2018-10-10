@@ -1,0 +1,48 @@
+SUMMARY INFORMATION FOR SOUNDING "08_17_2018"
+=============================================
+
+Station Name             : Perlan El Calafate
+.       WMO Number       : /////
+.       ICAO Number      : /////
+.       Mobile Call Sign : /////
+.       Latitude         : 50°16'59.4"S
+.       Longitude        : 072°02'53.9"W
+.       Altitude (MSL)   : 666ft
+
+Sonde   Type             : iMet-4-AB
+.       Serial Number    : 15254
+
+Surface Pressure         : 978.0mB
+.       Temperature      : +1.5°C
+.       Humidity         : 81%
+.       Wind Speed       : 10.0kts
+.       Wind Direction   : 250.0°
+.       Cloud Code       : /////
+
+Launched (UTC)           : 2018-08-17 11:58:27
+
+--------------------------------------------------------------------------------
+
+Operator                 : Perlan Project
+
+Balloon             Make : Unknown
+.                 Weight : 600
+.                    Age : 
+
+Data    Minimum Pressure : 25.7mB
+.       Maximum Altitude : 79018ft
+.            Ascent Rate : 1002ft/min
+.    Maximum Temperature : +1.5°C
+.    Minimum Temperature : -66.4°C
+.    Maximum Humidity    : 89%
+.    Minimum Humdity     : 0%
+.    Maximum Slant Range : 106.745M
+.      Final Slant Range : 106.745M
+.        Final Elevation : 7.0°
+
+Termination (UTC)        : 2018-08-17 13:18:32
+.                 Source : Automatic
+.                 Reason : Balloon burst (Rate = -1313ft/min  Threshold = -1310ft/min)
+.        Ascent Duration : 1 hours 18 minutes 51 seconds
+
+--------------------------------------------------------------------------------

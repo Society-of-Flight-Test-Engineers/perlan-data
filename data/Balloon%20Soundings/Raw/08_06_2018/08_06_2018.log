@@ -1,0 +1,47 @@
+2018-08-06,09:14:18.473,Created. (UTC = 2018-08-06,12:14:18)
+2018-08-06,09:14:20.853,Open Select/Confirm Radiosonde
+2018-08-06,09:14:36.905,Sonde selected IMET-4-AB
+2018-08-06,09:14:36.915,Close Select/Confirm Radiosonde
+2018-08-06,09:14:38.373,Open Balloon Train
+2018-08-06,09:15:02.582,Close Balloon Train
+2018-08-06,09:15:05.359,Open Station Details
+2018-08-06,09:15:08.698,Close Station Details
+2018-08-06,09:15:10.957,Open Message Setup
+2018-08-06,09:15:18.783,Close Message Setup
+2018-08-06,09:15:25.109,Open Current Weather
+2018-08-06,09:16:00.397,Close Current Weather
+2018-08-06,09:24:15.381,Real PC/UTC Offset confirmed as -3.00 hours (03:00:15.642)
+2018-08-06,09:36:24.948,Open Current Weather
+2018-08-06,09:36:26.809,Use radiosonde for current weather
+2018-08-06,09:36:48.176,Close Current Weather
+2018-08-06,09:36:49.798,Attempt Ready To Launch
+2018-08-06,09:36:49.836,Passed Ready To Launch
+2018-08-06,09:38:19.468,Launch detected (157.5m/s)
+2018-08-06,09:38:39.484,Launch site Lat:-50.283173 Long:-72.047112
+2018-08-06,09:46:45.985,Graph : PTU
+2018-08-06,10:04:33.565,Graph : Winds
+2018-08-06,10:31:20.154,Graph : SkewT-LogP
+2018-08-06,10:31:30.000,Graph : Winds
+2018-08-06,10:43:06.521,Graph : Google Maps
+2018-08-06,10:43:18.609,Graph : SkewT-LogP
+2018-08-06,10:45:38.667,Graph : Flight Path
+2018-08-06,10:45:50.865,Graph : Google Maps
+2018-08-06,10:45:58.153,Graph : Density
+2018-08-06,10:46:09.929,Graph : SkewT-LogP
+2018-08-06,10:46:17.241,Graph : Winds
+2018-08-06,10:46:24.321,Graph : Google Maps
+2018-08-06,11:03:03.700,Graph : Winds
+2018-08-06,11:03:07.858,Graph : SkewT-LogP
+2018-08-06,11:03:12.498,Graph : Google Maps
+2018-08-06,11:03:24.218,Graph : Winds
+2018-08-06,11:03:31.946,Graph : Density
+2018-08-06,11:03:37.314,Graph : Flight Path
+2018-08-06,11:03:43.858,Graph : SkewT-LogP
+2018-08-06,11:16:04.120,Graph : PTU
+2018-08-06,11:17:14.923,Graph : Winds
+2018-08-06,11:17:22.154,Graph : Density
+2018-08-06,11:17:28.171,Graph : Flight Path
+2018-08-06,11:17:33.747,Graph : SkewT-LogP
+2018-08-06,11:17:38.579,Graph : Google Maps
+2018-08-06,11:17:51.467,Graph : RAOB
+2018-08-06,11:18:10.675,Graph : SkewT-LogP

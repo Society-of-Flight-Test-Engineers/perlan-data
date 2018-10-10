@@ -1,0 +1,31 @@
+﻿[General]
+Status=1
+Flight ID={1D1AF7EE-53DF-440C-8458-66A38B878E3B}
+Initiated=20180802T185354.099
+PC ID={A31818B2-8212-4060-81D2-57464D1F2F0E}
+SW Clock=0
+SW Version=3.107.0
+SW Option=00
+Data Revision=7
+Text1 Revision=1
+DecimalSeparator=.
+
+[Data]
+RateMS=1000
+
+[Flight Sonde]
+ID=
+State=0
+
+[Flight Balloon]
+State=0
+
+[Flight Station]
+State=0
+
+[Flight Messages]
+State=0
+
+[Station]
+Equipment=S3050
+

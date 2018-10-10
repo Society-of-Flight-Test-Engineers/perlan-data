@@ -1,0 +1,26 @@
+2018-09-11,14:55:54.058,Created. (UTC = 2018-09-11,17:55:54)
+2018-09-11,14:55:55.757,Open Select/Confirm Radiosonde
+2018-09-11,14:56:05.832,Sonde selected IMET-4-AB
+2018-09-11,14:56:05.843,Close Select/Confirm Radiosonde
+2018-09-11,14:56:07.133,Open Balloon Train
+2018-09-11,14:56:09.346,Close Balloon Train
+2018-09-11,14:56:10.733,Open Station Details
+2018-09-11,14:56:12.643,Close Station Details
+2018-09-11,14:56:13.933,Open Message Setup
+2018-09-11,14:56:21.532,Close Message Setup
+2018-09-11,14:56:23.261,Open Current Weather
+2018-09-11,14:56:26.336,Close Current Weather
+2018-09-11,14:58:31.985,Real PC/UTC Offset confirmed as -3.00 hours (03:00:15.027)
+2018-09-11,15:08:50.535,Open Current Weather
+2018-09-11,15:08:51.913,Use radiosonde for current weather
+2018-09-11,15:09:03.048,Close Current Weather
+2018-09-11,15:09:04.393,Attempt Ready To Launch
+2018-09-11,15:09:04.423,Passed Ready To Launch
+2018-09-11,15:09:51.013,Launch detected (152.9m/s)
+2018-09-11,15:10:11.032,Launch site Lat:-50.283356 Long:-72.047325
+2018-09-11,15:12:23.494,Graph : PTU
+2018-09-11,16:35:15.547,Reloaded. (UTC = 2018-09-11,19:35:15)
+2018-09-11,16:36:03.973,Graph : Winds
+2018-09-11,16:36:08.173,Graph : Density
+2018-09-11,16:36:11.516,Graph : Flight Path
+2018-09-11,16:36:15.013,Graph : SkewT-LogP

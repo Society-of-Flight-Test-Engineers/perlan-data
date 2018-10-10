@@ -1,0 +1,6523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2"><Document>
+	<Style id="sn_icon56">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Camera>
+		<longitude>-73.12477</longitude>
+		<latitude>-50.06836</latitude>
+		<altitude>32759.2</altitude>
+	</Camera>
+	<Placemark>
+		<Style>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<heading>324.0</heading>
+			</IconStyle>
+		</Style>
+		<styleUrl>#sn_icon56</styleUrl>
+		<Point>
+			<altitudeMode>absolute</altitudeMode>
+			<extrude>1</extrude>
+			<coordinates>-73.12477,-50.06836,12759.2</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+	<coordinates>
+-72.047295,-50.283337,265.8
+-72.04727,-50.28346,266.0
+-72.04728,-50.283524,265.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04728,-50.283524,265.8
+-72.047295,-50.283527,265.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047295,-50.283527,265.8
+-72.0473,-50.283455,265.9
+-72.04732,-50.283314,265.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.283314,265.3
+-72.04725,-50.284283,265.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04725,-50.284283,265.4
+-72.04725,-50.283924,265.6
+-72.04723,-50.283695,265.8
+-72.04723,-50.283646,265.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04723,-50.283646,265.7
+-72.04723,-50.28353,265.5
+-72.047226,-50.283524,265.3
+-72.04722,-50.28356,265.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04722,-50.28356,265.8
+-72.047226,-50.283558,265.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047226,-50.283558,265.5
+-72.04724,-50.283543,265.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04724,-50.283543,265.8
+-72.047295,-50.28345,266.0
+-72.04734,-50.28335,266.3
+-72.04737,-50.28348,265.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28348,265.7
+-72.04735,-50.28403,265.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.28403,265.8
+-72.04731,-50.28428,265.8
+-72.04727,-50.28416,265.8
+-72.04725,-50.283955,266.0
+-72.04723,-50.283756,266.1
+-72.04723,-50.283558,265.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04723,-50.283558,265.8
+-72.04731,-50.28356,265.6
+-72.047325,-50.28358,266.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.28358,266.3
+-72.04733,-50.283566,266.3
+-72.0474,-50.283566,266.3
+-72.04733,-50.28348,266.5
+-72.047195,-50.28353,266.7
+-72.04711,-50.283306,266.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04711,-50.283306,266.6
+-72.04708,-50.283066,266.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04708,-50.283066,266.6
+-72.04711,-50.283043,266.6
+-72.04711,-50.283047,266.9
+-72.04711,-50.282978,266.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04711,-50.282978,266.7
+-72.047104,-50.28284,266.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047104,-50.28284,266.8
+-72.047455,-50.28379,267.4
+-72.04757,-50.283886,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04757,-50.283886,266.9
+-72.04735,-50.284058,267.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.284058,267.3
+-72.04734,-50.28412,267.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.28412,267.1
+-72.04734,-50.2842,266.9
+-72.04733,-50.284134,266.7
+-72.04726,-50.283432,267.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04726,-50.283432,267.1
+-72.04725,-50.28325,267.1
+-72.047226,-50.283222,267.4
+-72.04724,-50.283188,267.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04724,-50.283188,267.0
+-72.04738,-50.28313,267.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28313,267.2
+-72.04738,-50.283127,267.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283127,267.1
+-72.04741,-50.283115,267.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04741,-50.283115,267.4
+-72.04763,-50.282993,267.5
+-72.04769,-50.28298,267.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04769,-50.28298,267.2
+-72.04753,-50.283127,267.1
+-72.04735,-50.28328,267.0
+-72.0472,-50.283386,266.9
+-72.04715,-50.28349,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04715,-50.28349,266.9
+-72.04715,-50.28355,266.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04715,-50.28355,266.3
+-72.04714,-50.283527,266.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04714,-50.283527,266.5
+-72.04715,-50.283478,266.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04715,-50.283478,266.3
+-72.04716,-50.283424,266.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04716,-50.283424,266.3
+-72.04717,-50.283432,266.8
+-72.047165,-50.28342,266.8
+-72.04716,-50.28343,266.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04716,-50.28343,266.7
+-72.04714,-50.283432,266.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04714,-50.283432,266.7
+-72.04711,-50.28339,267.0
+-72.04713,-50.283333,266.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04713,-50.283333,266.4
+-72.04713,-50.283295,266.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04713,-50.283295,266.6
+-72.047165,-50.28326,266.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047165,-50.28326,266.4
+-72.047195,-50.28321,266.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047195,-50.28321,266.5
+-72.04714,-50.283115,266.8
+-72.04718,-50.283054,266.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04718,-50.283054,266.5
+-72.047325,-50.28293,267.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.28293,267.2
+-72.04741,-50.282837,266.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04741,-50.282837,266.7
+-72.047485,-50.282764,267.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047485,-50.282764,267.0
+-72.04749,-50.282764,267.1
+-72.04731,-50.282894,267.2
+-72.047195,-50.283054,267.4
+-72.04713,-50.283142,266.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04713,-50.283142,266.8
+-72.04711,-50.283257,267.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04711,-50.283257,267.4
+-72.047134,-50.28335,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047134,-50.28335,266.9
+-72.04712,-50.283367,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04712,-50.283367,266.9
+-72.0471,-50.283375,267.2
+-72.047066,-50.283268,267.2
+-72.04707,-50.28319,267.7
+-72.047066,-50.283134,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047066,-50.283134,266.9
+-72.047005,-50.28304,267.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047005,-50.28304,267.6
+-72.04693,-50.283028,267.9
+-72.04685,-50.282974,267.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04685,-50.282974,267.6
+-72.04682,-50.283,267.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04682,-50.283,267.6
+-72.0468,-50.282993,268.1
+-72.04677,-50.282948,268.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04677,-50.282948,268.0
+-72.046776,-50.282963,268.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.046776,-50.282963,268.3
+-72.04677,-50.282955,268.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04677,-50.282955,268.1
+-72.04665,-50.282745,267.8
+-72.04658,-50.282692,268.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04658,-50.282692,268.1
+-72.04663,-50.282852,267.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04663,-50.282852,267.8
+-72.04672,-50.28294,268.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04672,-50.28294,268.2
+-72.04681,-50.282974,267.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04681,-50.282974,267.8
+-72.04688,-50.2831,267.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04688,-50.2831,267.8
+-72.04691,-50.283073,267.9
+-72.04695,-50.28313,267.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04695,-50.28313,267.8
+-72.04697,-50.283173,267.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04697,-50.283173,267.9
+-72.04701,-50.283287,268.0
+-72.04722,-50.28333,268.2
+-72.04728,-50.283306,268.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04728,-50.283306,268.1
+-72.04739,-50.283237,267.9
+-72.04738,-50.283302,267.6
+-72.047264,-50.2834,268.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047264,-50.2834,268.2
+-72.04719,-50.2835,268.5
+-72.04721,-50.28369,268.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04721,-50.28369,268.0
+-72.0472,-50.283627,268.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0472,-50.283627,268.1
+-72.04713,-50.28337,268.7
+-72.04707,-50.2832,268.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04707,-50.2832,268.4
+-72.04706,-50.28318,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04706,-50.28318,268.6
+-72.04707,-50.283268,268.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04707,-50.283268,268.5
+-72.0471,-50.28338,268.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0471,-50.28338,268.7
+-72.04712,-50.2834,268.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04712,-50.2834,268.4
+-72.047165,-50.283478,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047165,-50.283478,268.6
+-72.04725,-50.28353,268.7
+-72.04732,-50.283543,268.7
+-72.04737,-50.283546,268.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283546,268.5
+-72.047424,-50.283516,268.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047424,-50.283516,268.7
+-72.04748,-50.28349,268.8
+-72.04753,-50.283463,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04753,-50.283463,268.6
+-72.04761,-50.283493,268.4
+-72.047516,-50.28347,268.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047516,-50.28347,268.5
+-72.047356,-50.283394,268.7
+-72.04742,-50.283455,269.1
+-72.04743,-50.28344,268.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04743,-50.28344,268.9
+-72.047386,-50.283436,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283436,269.4
+-72.04737,-50.283443,269.4
+-72.047325,-50.283405,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.283405,269.0
+-72.04731,-50.28339,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04731,-50.28339,269.3
+-72.047295,-50.283375,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047295,-50.283375,269.1
+-72.04728,-50.28335,269.0
+-72.04727,-50.283344,268.8
+-72.047264,-50.283333,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047264,-50.283333,269.4
+-72.047264,-50.28333,269.9
+-72.04726,-50.28333,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04726,-50.28333,269.6
+-72.04726,-50.283333,269.5
+-72.04727,-50.283344,269.1
+-72.0473,-50.28338,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0473,-50.28338,270.2
+-72.047325,-50.2834,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.2834,269.5
+-72.04734,-50.28342,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.28342,269.8
+-72.04735,-50.283424,270.1
+-72.04734,-50.283417,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.283417,269.6
+-72.04734,-50.283413,269.4
+-72.04734,-50.283413,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.283413,269.8
+-72.04735,-50.28341,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.28341,269.4
+-72.04735,-50.28341,269.1
+-72.047356,-50.283417,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283417,269.8
+-72.047356,-50.283417,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283417,269.7
+-72.047356,-50.283413,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283413,270.3
+-72.047356,-50.283424,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283424,269.3
+-72.047356,-50.283432,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283432,269.5
+-72.04735,-50.283424,269.5
+-72.047325,-50.28341,270.0
+-72.04731,-50.283394,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04731,-50.283394,269.6
+-72.04731,-50.283386,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04731,-50.283386,270.2
+-72.04732,-50.283382,270.7
+-72.047325,-50.283382,271.5
+-72.047325,-50.283382,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.283382,270.2
+-72.047325,-50.283386,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.283386,270.6
+-72.047325,-50.28339,270.7
+-72.04732,-50.28339,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.28339,269.4
+-72.04732,-50.283394,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.283394,270.1
+-72.04732,-50.283405,270.6
+-72.047325,-50.283417,271.1
+-72.04733,-50.28342,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.28342,270.5
+-72.047325,-50.28342,270.3
+-72.047325,-50.28342,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.28342,270.3
+-72.04733,-50.283424,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283424,269.4
+-72.04734,-50.283417,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.283417,270.6
+-72.04733,-50.283417,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283417,269.8
+-72.04734,-50.28342,270.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.28342,270.0
+-72.04734,-50.28342,270.5
+-72.04733,-50.283417,270.9
+-72.04733,-50.28342,271.1
+-72.04733,-50.283424,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283424,270.6
+-72.047356,-50.283432,271.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283432,271.2
+-72.04738,-50.283447,270.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283447,270.8
+-72.04737,-50.283443,270.2
+-72.04736,-50.283436,271.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283436,271.3
+-72.04735,-50.283417,270.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283417,270.4
+-72.04733,-50.283413,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283413,271.1
+-72.04733,-50.283413,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283413,270.6
+-72.04733,-50.283413,270.4
+-72.04733,-50.28341,270.2
+-72.04733,-50.283405,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283405,270.6
+-72.04733,-50.283405,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283405,270.2
+-72.04732,-50.28339,269.4
+-72.04732,-50.28339,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.28339,270.6
+-72.04732,-50.283394,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.283394,269.5
+-72.04732,-50.283394,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.283394,270.6
+-72.04731,-50.28339,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04731,-50.28339,269.3
+-72.047295,-50.283382,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047295,-50.283382,269.5
+-72.047295,-50.283382,269.7
+-72.0473,-50.28339,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0473,-50.28339,269.5
+-72.04732,-50.283394,269.3
+-72.047325,-50.283398,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.283398,269.5
+-72.047325,-50.2834,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.2834,269.3
+-72.047325,-50.2834,269.2
+-72.04731,-50.2834,269.0
+-72.0473,-50.283394,268.7
+-72.04731,-50.283394,267.4
+-72.04731,-50.283398,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04731,-50.283398,269.6
+-72.04732,-50.283405,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04732,-50.283405,269.5
+-72.047325,-50.28341,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047325,-50.28341,270.2
+-72.04733,-50.283417,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04733,-50.283417,269.0
+-72.04734,-50.283417,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.283417,270.1
+-72.04735,-50.283417,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283417,269.4
+-72.047356,-50.283424,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283424,269.7
+-72.04735,-50.283417,270.0
+-72.04735,-50.283417,269.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283417,269.2
+-72.04734,-50.28341,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.28341,270.6
+-72.04734,-50.283413,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04734,-50.283413,269.8
+-72.04735,-50.283417,269.6
+-72.04735,-50.28342,269.3
+-72.04736,-50.28343,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,270.1
+-72.047356,-50.283432,268.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283432,268.9
+-72.047356,-50.28343,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28343,269.4
+-72.04736,-50.28343,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,269.0
+-72.04736,-50.28343,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,269.5
+-72.04736,-50.28343,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,269.0
+-72.047356,-50.283432,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283432,269.0
+-72.04736,-50.283436,269.5
+-72.04737,-50.28344,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28344,269.0
+-72.04737,-50.28344,268.5
+-72.04738,-50.28344,268.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,268.9
+-72.04737,-50.283436,269.0
+-72.04737,-50.283436,269.5
+-72.04737,-50.283436,268.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283436,268.9
+-72.04738,-50.28344,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,269.5
+-72.04738,-50.283436,268.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283436,268.9
+-72.047386,-50.28344,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.28344,269.5
+-72.04738,-50.283436,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283436,269.1
+-72.04736,-50.28343,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,269.4
+-72.04737,-50.283436,269.8
+-72.04736,-50.283432,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283432,269.3
+-72.047356,-50.283424,269.1
+-72.04736,-50.28343,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,269.7
+-72.04736,-50.283432,269.8
+-72.04737,-50.283436,269.8
+-72.04737,-50.28344,270.1
+-72.04738,-50.283447,270.1
+-72.04738,-50.28345,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28345,269.5
+-72.04737,-50.283447,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283447,270.1
+-72.04736,-50.283443,270.4
+-72.04736,-50.283443,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283443,269.9
+-72.04737,-50.283443,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283443,269.9
+-72.04737,-50.283443,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283443,269.8
+-72.04737,-50.28344,269.7
+-72.04738,-50.283436,268.8
+-72.04738,-50.283436,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283436,269.5
+-72.04738,-50.283436,269.5
+-72.047386,-50.283436,269.8
+-72.04739,-50.283436,269.9
+-72.04739,-50.28344,268.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04739,-50.28344,268.2
+-72.04739,-50.283436,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04739,-50.283436,269.5
+-72.047386,-50.283432,270.0
+-72.04738,-50.28343,268.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28343,268.8
+-72.04738,-50.283432,270.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283432,270.0
+-72.04738,-50.283432,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283432,269.6
+-72.04736,-50.28343,270.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28343,270.0
+-72.04736,-50.28344,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28344,269.9
+-72.04737,-50.283447,269.1
+-72.04738,-50.28345,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28345,269.1
+-72.047386,-50.283455,268.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283455,268.7
+-72.047386,-50.283463,268.6
+-72.047386,-50.283463,267.8
+-72.047386,-50.283466,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283466,269.5
+-72.047386,-50.283466,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283466,269.0
+-72.047386,-50.283463,268.6
+-72.047386,-50.28346,268.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.28346,268.8
+-72.04738,-50.283455,268.8
+-72.04737,-50.283447,268.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283447,268.5
+-72.04736,-50.28345,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,269.8
+-72.047356,-50.28345,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28345,269.4
+-72.04736,-50.28346,268.8
+-72.04736,-50.28346,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28346,269.5
+-72.04736,-50.28346,268.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28346,268.9
+-72.04737,-50.28346,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28346,269.4
+-72.04738,-50.28346,269.4
+-72.04738,-50.283463,269.5
+-72.04738,-50.283463,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283463,269.0
+-72.04738,-50.28346,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28346,270.3
+-72.04737,-50.28346,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28346,269.3
+-72.04737,-50.283463,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283463,269.5
+-72.04737,-50.28346,270.0
+-72.04737,-50.28345,269.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28345,269.2
+-72.04738,-50.283447,269.0
+-72.047386,-50.283447,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283447,269.4
+-72.047386,-50.283447,270.1
+-72.047386,-50.283447,270.1
+-72.047386,-50.283443,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283443,269.5
+-72.047386,-50.283443,269.4
+-72.04738,-50.283436,269.0
+-72.04738,-50.283436,268.5
+-72.04738,-50.283436,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283436,269.8
+-72.047386,-50.283436,269.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283436,269.2
+-72.047386,-50.283443,269.0
+-72.047386,-50.283443,269.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283443,269.2
+-72.04738,-50.28344,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,269.0
+-72.04738,-50.28344,267.9
+-72.04738,-50.283443,268.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283443,268.2
+-72.04738,-50.283447,268.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283447,268.1
+-72.04738,-50.283443,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283443,269.6
+-72.04738,-50.28344,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,269.5
+-72.04738,-50.283436,269.2
+-72.04738,-50.283436,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283436,269.4
+-72.047386,-50.28344,269.4
+-72.047386,-50.283443,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283443,269.1
+-72.04738,-50.283447,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283447,269.7
+-72.04738,-50.283455,269.7
+-72.047386,-50.283463,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283463,269.6
+-72.04739,-50.283466,270.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04739,-50.283466,270.4
+-72.04739,-50.283466,268.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04739,-50.283466,268.7
+-72.047386,-50.283463,268.5
+-72.04738,-50.28345,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28345,269.5
+-72.04737,-50.28344,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28344,268.6
+-72.04738,-50.283443,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283443,269.7
+-72.04738,-50.28345,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28345,269.5
+-72.04738,-50.283447,269.3
+-72.047386,-50.283447,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047386,-50.283447,269.5
+-72.04738,-50.283443,270.2
+-72.04738,-50.28344,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,269.9
+-72.04738,-50.283443,269.7
+-72.04738,-50.283443,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283443,269.9
+-72.04738,-50.28344,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,269.8
+-72.04738,-50.28344,270.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28344,270.0
+-72.04738,-50.28344,270.6
+-72.04737,-50.28344,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28344,269.9
+-72.04737,-50.283443,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283443,270.6
+-72.04737,-50.283447,270.6
+-72.04737,-50.28345,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28345,269.4
+-72.04737,-50.283447,270.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283447,270.4
+-72.04737,-50.28345,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28345,270.3
+-72.04736,-50.283447,269.8
+-72.047356,-50.283443,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,270.1
+-72.047356,-50.283443,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,269.8
+-72.047356,-50.283447,270.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283447,270.7
+-72.047356,-50.283447,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283447,270.2
+-72.04736,-50.28345,270.1
+-72.047356,-50.28345,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28345,270.5
+-72.04736,-50.28346,270.7
+-72.047356,-50.28345,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28345,270.5
+-72.047356,-50.283443,270.1
+-72.047356,-50.283443,270.0
+-72.04736,-50.28344,269.7
+-72.04736,-50.28344,269.5
+-72.04736,-50.283436,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283436,270.5
+-72.04736,-50.283436,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283436,270.2
+-72.04736,-50.28344,270.0
+-72.04737,-50.283447,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283447,270.1
+-72.04738,-50.283447,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283447,269.8
+-72.04737,-50.283443,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283443,271.1
+-72.04737,-50.283443,270.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283443,270.8
+-72.04738,-50.28345,271.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28345,271.3
+-72.04738,-50.28346,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.28346,270.5
+-72.04738,-50.283455,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283455,270.6
+-72.04738,-50.28345,271.4
+-72.04737,-50.283455,271.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283455,271.2
+-72.04737,-50.283455,270.4
+-72.04737,-50.28346,269.5
+-72.04737,-50.283463,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283463,270.1
+-72.04737,-50.283463,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283463,269.8
+-72.04737,-50.283463,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283463,271.1
+-72.04737,-50.28346,271.7
+-72.04736,-50.283455,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283455,269.9
+-72.04736,-50.283455,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283455,271.1
+-72.04736,-50.283455,271.3
+-72.04736,-50.28345,270.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,270.9
+-72.047356,-50.28345,271.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28345,271.3
+-72.04736,-50.28345,271.4
+-72.047356,-50.283447,271.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283447,271.3
+-72.047356,-50.283443,271.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,271.5
+-72.04736,-50.283443,271.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283443,271.3
+-72.04736,-50.283443,271.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283443,271.9
+-72.04736,-50.283443,270.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283443,270.7
+-72.04736,-50.283443,270.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283443,270.9
+-72.047356,-50.28344,270.9
+-72.047356,-50.283443,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,269.8
+-72.04736,-50.283447,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283447,269.9
+-72.047356,-50.283443,270.3
+-72.047356,-50.28344,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28344,269.6
+-72.04735,-50.283436,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283436,270.1
+-72.04735,-50.283436,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283436,269.7
+-72.04735,-50.283436,270.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283436,270.4
+-72.047356,-50.283436,270.7
+-72.047356,-50.28344,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28344,269.5
+-72.047356,-50.28344,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28344,270.1
+-72.047356,-50.283443,270.4
+-72.04736,-50.28345,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,269.7
+-72.04736,-50.283447,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283447,270.2
+-72.047356,-50.283443,270.4
+-72.047356,-50.283436,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283436,270.3
+-72.047356,-50.283436,271.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283436,271.6
+-72.047356,-50.283432,270.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283432,270.9
+-72.047356,-50.283432,270.6
+-72.047356,-50.283436,270.3
+-72.04736,-50.28344,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28344,270.5
+-72.04736,-50.283443,270.7
+-72.04736,-50.283443,270.8
+-72.04736,-50.283447,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283447,270.5
+-72.04736,-50.28345,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,270.5
+-72.04736,-50.283455,271.6
+-72.04737,-50.283455,270.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283455,270.9
+-72.04736,-50.283455,269.3
+-72.04736,-50.28345,272.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,272.1
+-72.04736,-50.28345,271.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,271.6
+-72.04736,-50.283455,271.1
+-72.04736,-50.283455,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283455,271.1
+-72.04736,-50.283455,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283455,270.6
+-72.04737,-50.283463,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283463,271.1
+-72.04738,-50.283466,271.3
+-72.04738,-50.283463,270.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283463,270.5
+-72.04739,-50.283466,270.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04739,-50.283466,270.8
+-72.04738,-50.283455,271.2
+-72.04738,-50.28345,272.4
+-72.04736,-50.28344,271.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28344,271.0
+-72.047356,-50.283436,272.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283436,272.0
+-72.047356,-50.28344,271.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28344,271.2
+-72.04736,-50.283443,271.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283443,271.4
+-72.04736,-50.28345,272.0
+-72.04736,-50.283455,272.1
+-72.047356,-50.283443,272.2
+-72.047356,-50.283443,271.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,271.8
+-72.04735,-50.28344,273.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.28344,273.3
+-72.047356,-50.283443,272.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,272.0
+-72.04736,-50.28346,271.5
+-72.047356,-50.28346,272.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28346,272.7
+-72.047356,-50.283463,272.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283463,272.2
+-72.047356,-50.28345,271.3
+-72.04735,-50.28345,270.6
+-72.04735,-50.283443,271.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283443,271.7
+-72.047356,-50.283443,270.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283443,270.8
+-72.04736,-50.28345,271.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,271.3
+-72.04736,-50.283455,271.8
+-72.04736,-50.283455,270.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283455,270.7
+-72.04737,-50.283463,271.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.283463,271.0
+-72.04736,-50.28346,271.4
+-72.047356,-50.28345,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28345,271.1
+-72.04735,-50.28345,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.28345,271.1
+-72.04735,-50.283455,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04735,-50.283455,270.6
+-72.047356,-50.283455,270.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283455,270.8
+-72.047356,-50.28346,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28346,270.2
+-72.047356,-50.283455,270.1
+-72.04736,-50.28345,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,270.6
+-72.04736,-50.28345,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28345,270.3
+-72.04736,-50.283455,269.2
+-72.04736,-50.283455,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283455,270.6
+-72.047356,-50.28345,270.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.28345,270.0
+-72.04736,-50.283455,269.5
+-72.047356,-50.283455,269.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283455,269.7
+-72.047356,-50.283455,269.8
+-72.047356,-50.283455,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047356,-50.283455,269.4
+-72.04736,-50.283413,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283413,270.1
+-72.04736,-50.283398,270.5
+-72.04736,-50.2834,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.2834,270.1
+-72.04736,-50.283405,270.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283405,270.3
+-72.04736,-50.283405,270.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283405,270.1
+-72.04736,-50.28341,269.9
+-72.04736,-50.28341,270.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.28341,270.2
+-72.04736,-50.283413,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04736,-50.283413,269.5
+-72.04737,-50.28342,270.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28342,270.0
+-72.04737,-50.28343,269.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28343,269.8
+-72.04738,-50.283432,269.6
+-72.04738,-50.283432,269.2
+-72.04737,-50.2834,269.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.2834,269.5
+-72.04737,-50.28335,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04737,-50.28335,269.0
+-72.04738,-50.283264,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04738,-50.283264,269.1
+-72.04738,-50.283195,269.5
+-72.04739,-50.283108,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04739,-50.283108,269.1
+-72.04742,-50.282967,269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04742,-50.282967,269.4
+-72.04743,-50.28283,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04743,-50.28283,269.0
+-72.04745,-50.282707,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04745,-50.282707,269.3
+-72.04746,-50.28259,269.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04746,-50.28259,269.1
+-72.04748,-50.282494,269.0
+-72.047485,-50.282425,268.2
+-72.04749,-50.282368,268.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04749,-50.282368,268.4
+-72.04756,-50.282307,268.5
+-72.04771,-50.28228,268.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04771,-50.28228,268.4
+-72.04777,-50.28228,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04777,-50.28228,268.6
+-72.0478,-50.282276,268.8
+-72.04794,-50.282288,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04794,-50.282288,268.6
+-72.04812,-50.282303,268.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04812,-50.282303,268.6
+-72.04834,-50.282314,268.8
+-72.04863,-50.282333,268.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04863,-50.282333,268.4
+-72.04893,-50.282352,268.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04893,-50.282352,268.4
+-72.04919,-50.28237,268.4
+-72.04942,-50.282387,268.7
+-72.04965,-50.282402,269.1
+-72.04988,-50.282413,269.4
+-72.05012,-50.28243,269.4
+-72.050354,-50.282444,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.050354,-50.282444,269.0
+-72.05059,-50.282455,269.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05059,-50.282455,269.2
+-72.05083,-50.282467,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05083,-50.282467,269.0
+-72.051056,-50.28248,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.051056,-50.28248,269.0
+-72.05132,-50.282497,269.5
+-72.05151,-50.28251,269.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05151,-50.28251,269.3
+-72.051765,-50.28252,268.9
+-72.052,-50.282536,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.052,-50.282536,269.0
+-72.05223,-50.282547,269.2
+-72.05247,-50.282562,269.2
+-72.05271,-50.282578,269.9
+-72.05298,-50.28259,270.1
+-72.053185,-50.282597,269.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.053185,-50.282597,269.9
+-72.05338,-50.2826,270.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05338,-50.2826,270.4
+-72.05363,-50.28258,270.6
+-72.05381,-50.282505,270.7
+-72.05393,-50.282383,270.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05393,-50.282383,270.6
+-72.05398,-50.282223,271.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05398,-50.282223,271.1
+-72.054,-50.28206,270.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.054,-50.28206,270.8
+-72.054016,-50.28188,270.5
+-72.05404,-50.28172,270.1
+-72.05408,-50.281506,269.6
+-72.05409,-50.281372,269.5
+-72.054115,-50.28122,269.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.054115,-50.28122,269.6
+-72.054115,-50.281208,269.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.054115,-50.281208,269.2
+-72.05412,-50.28117,268.6
+-72.054146,-50.28102,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.054146,-50.28102,269.0
+-72.05418,-50.28086,268.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05418,-50.28086,268.8
+-72.05419,-50.28071,268.1
+-72.05419,-50.28062,268.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05419,-50.28062,268.3
+-72.05412,-50.280437,268.5
+-72.05397,-50.280334,268.5
+-72.053764,-50.28027,269.0
+-72.05356,-50.28025,268.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05356,-50.28025,268.5
+-72.05346,-50.280247,269.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05346,-50.280247,269.0
+-72.05318,-50.28023,268.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05318,-50.28023,268.5
+-72.052895,-50.280212,268.2
+-72.05251,-50.28019,268.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05251,-50.28019,268.2
+-72.051994,-50.280155,268.4
+-72.05142,-50.280125,268.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.05142,-50.280125,268.0
+-72.050835,-50.280087,268.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.050835,-50.280087,268.1
+-72.050224,-50.280052,267.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.050224,-50.280052,267.5
+-72.04961,-50.280018,267.0
+-72.04899,-50.279976,267.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04899,-50.279976,267.4
+-72.04834,-50.27994,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04834,-50.27994,266.9
+-72.047745,-50.279907,267.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.047745,-50.279907,267.1
+-72.0471,-50.279865,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0471,-50.279865,266.9
+-72.04651,-50.27983,265.8
+-72.04594,-50.279797,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04594,-50.279797,266.9
+-72.04542,-50.279762,267.2
+-72.04486,-50.279728,267.3
+-72.04431,-50.279697,267.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04431,-50.279697,267.2
+-72.043724,-50.279663,266.8
+-72.0432,-50.27963,266.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0432,-50.27963,266.9
+-72.04268,-50.2796,266.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04268,-50.2796,266.5
+-72.042175,-50.279568,265.7
+-72.041664,-50.279537,265.3
+-72.04115,-50.279507,265.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04115,-50.279507,265.7
+-72.04065,-50.27948,265.8
+-72.04013,-50.279446,265.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04013,-50.279446,265.6
+-72.0396,-50.27941,265.3
+-72.03907,-50.27938,264.2
+-72.038574,-50.279354,265.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.038574,-50.279354,265.5
+-72.038086,-50.279327,263.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.038086,-50.279327,263.5
+-72.03759,-50.279293,264.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03759,-50.279293,264.3
+-72.0371,-50.279266,264.9
+-72.03665,-50.27924,264.9
+-72.03622,-50.279213,264.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03622,-50.279213,264.3
+-72.03602,-50.2792,264.1
+-72.03602,-50.2792,263.0
+-72.03602,-50.2792,261.3
+-72.03602,-50.2792,261.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03602,-50.2792,261.3
+-72.03602,-50.2792,262.9
+-72.03601,-50.2792,263.1
+-72.03602,-50.2792,263.7
+-72.03601,-50.2792,262.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,262.6
+-72.03601,-50.2792,262.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,262.6
+-72.03601,-50.279205,262.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,262.1
+-72.03601,-50.279205,263.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,263.0
+-72.03601,-50.279205,262.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,262.9
+-72.03601,-50.279205,262.8
+-72.03601,-50.279205,263.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,263.7
+-72.03601,-50.279205,263.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,263.6
+-72.03601,-50.279205,263.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,263.9
+-72.03601,-50.2792,264.0
+-72.03601,-50.2792,263.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.7
+-72.03601,-50.279205,263.4
+-72.036,-50.2792,263.2
+-72.03601,-50.279205,263.1
+-72.03601,-50.2792,263.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.2
+-72.03601,-50.279205,264.0
+-72.03601,-50.279205,264.1
+-72.03601,-50.279205,263.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,263.6
+-72.03601,-50.279205,263.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,263.6
+-72.03601,-50.279205,264.2
+-72.03601,-50.2792,265.2
+-72.03601,-50.2792,264.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,264.9
+-72.03601,-50.2792,265.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,265.1
+-72.036,-50.2792,264.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.036,-50.2792,264.5
+-72.03601,-50.279205,264.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,264.9
+-72.036,-50.2792,264.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.036,-50.2792,264.1
+-72.03601,-50.2792,263.2
+-72.03601,-50.2792,263.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.7
+-72.03601,-50.2792,264.1
+-72.03601,-50.2792,263.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.4
+-72.03601,-50.2792,263.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.7
+-72.03601,-50.2792,263.8
+-72.036,-50.2792,264.1
+-72.03601,-50.2792,263.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.7
+-72.03601,-50.2792,263.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.8
+-72.03601,-50.2792,264.2
+-72.03601,-50.2792,263.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.2792,263.9
+-72.03601,-50.279205,264.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,264.8
+-72.03601,-50.279205,264.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03601,-50.279205,264.7
+-72.03645,-50.279213,265.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.03645,-50.279213,265.1
+-72.03833,-50.279324,265.2
+-72.04196,-50.27956,264.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04196,-50.27956,264.2
+-72.04592,-50.279858,267.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.04592,-50.279858,267.7
+-72.0514,-50.280293,279.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.0514,-50.280293,279.8
+-72.05617,-50.280674,339.8
+-72.06056,-50.281193,405.7
+-72.06517,-50.281616,498.2
+-72.068924,-50.282055,555.2
+-72.07184,-50.282455,644.0
+-72.07473,-50.28281,703.5
+-72.077965,-50.283245,740.4
+-72.0809,-50.28366,784.3
+-72.08442,-50.284657,834.2
+-72.08776,-50.28572,886.5
+-72.09122,-50.286324,974.4
+-72.09451,-50.2869,1037.2
+-72.097694,-50.28725,1122.4
+-72.10085,-50.28762,1162.3
+-72.10404,-50.28798,1215.9
+-72.10708,-50.288296,1258.4
+-72.109665,-50.28855,1314.3
+-72.11232,-50.288746,1363.1
+-72.11496,-50.288994,1396.2
+-72.117424,-50.289257,1435.7
+-72.120224,-50.2895,1469.9
+-72.12337,-50.289715,1507.5
+-72.12628,-50.28986,1548.1
+-72.12883,-50.289963,1582.5
+-72.13148,-50.29007,1627.7
+-72.1345,-50.29022,1661.1
+-72.13685,-50.290234,1696.0
+-72.13998,-50.29013,1723.3
+-72.14318,-50.29013,1758.8
+-72.1461,-50.289825,1788.3
+-72.149086,-50.28959,1831.3
+-72.15205,-50.28953,1874.8
+-72.154495,-50.289597,1917.6
+-72.157036,-50.28974,1963.3
+-72.1603,-50.2898,2011.7
+-72.16313,-50.289707,2048.6
+-72.16587,-50.289707,2092.3
+-72.167656,-50.289764,2148.3
+-72.17008,-50.289845,2202.5
+-72.17285,-50.289978,2233.3
+-72.17549,-50.290043,2281.2
+-72.17807,-50.29026,2331.6
+-72.18041,-50.290447,2394.7
+-72.182785,-50.2906,2455.8
+-72.18476,-50.290787,2519.1
+-72.18759,-50.291008,2583.0
+-72.189995,-50.29125,2644.6
+-72.19239,-50.291645,2712.1
+-72.194565,-50.292015,2764.1
+-72.19711,-50.29231,2834.6
+-72.199486,-50.29267,2905.9
+-72.20179,-50.29317,2994.5
+-72.20416,-50.2938,3060.2
+-72.20635,-50.294373,3125.5
+-72.208885,-50.294876,3189.1
+-72.21151,-50.295273,3254.7
+-72.21402,-50.295757,3321.6
+-72.21677,-50.296436,3382.5
+-72.219,-50.29708,3455.0
+-72.22075,-50.29763,3534.0
+-72.22295,-50.298183,3625.2
+-72.22521,-50.298363,3707.4
+-72.226974,-50.298347,3785.9
+-72.22932,-50.298298,3893.9
+-72.23174,-50.298313,3963.6
+-72.23442,-50.298424,4039.3
+-72.23659,-50.298443,4126.7
+-72.238495,-50.298286,4245.2
+-72.24068,-50.298145,4322.5
+-72.24298,-50.29808,4405.9
+-72.24515,-50.29808,4485.8
+-72.24708,-50.29816,4577.2
+-72.24942,-50.298122,4662.4
+-72.25179,-50.29813,4731.0
+-72.25358,-50.29821,4819.1
+-72.256676,-50.298405,4908.3
+-72.258766,-50.298447,4998.7
+-72.26098,-50.298622,5097.3
+-72.263245,-50.298843,5193.3
+-72.26541,-50.298817,5286.9
+-72.2677,-50.298733,5376.4
+-72.26986,-50.29874,5459.0
+-72.27202,-50.299023,5546.2
+-72.27415,-50.299255,5629.5
+-72.27622,-50.299374,5721.8
+-72.278755,-50.29941,5792.1
+-72.28104,-50.299374,5866.7
+-72.2832,-50.2995,5941.2
+-72.28571,-50.299526,6006.3
+-72.28826,-50.29947,6074.6
+-72.290794,-50.299477,6141.8
+-72.29323,-50.299538,6206.4
+-72.296005,-50.29967,6273.6
+-72.298454,-50.299942,6332.4
+-72.30104,-50.30008,6407.0
+-72.303444,-50.300137,6452.0
+-72.30644,-50.300224,6516.8
+-72.30894,-50.300297,6581.9
+-72.31222,-50.30047,6634.7
+-72.31502,-50.300602,6685.6
+-72.3185,-50.300934,6750.1
+-72.32134,-50.30121,6804.1
+-72.324326,-50.301426,6878.1
+-72.327774,-50.30167,6946.3
+-72.330894,-50.301952,7001.3
+-72.333885,-50.30221,7072.8
+-72.33643,-50.30241,7143.0
+-72.34036,-50.302845,7194.6
+-72.34364,-50.303154,7251.4
+-72.34688,-50.303425,7316.4
+-72.34998,-50.30367,7373.8
+-72.353584,-50.3039,7423.2
+-72.35743,-50.303978,7470.0
+-72.36187,-50.304066,7516.3
+-72.3658,-50.304226,7562.7
+-72.369835,-50.30445,7627.7
+-72.373535,-50.30473,7672.3
+-72.377594,-50.304825,7723.3
+-72.38152,-50.304737,7782.5
+-72.38554,-50.304867,7837.9
+-72.38955,-50.305153,7883.4
+-72.393456,-50.30554,7935.4
+-72.39782,-50.306107,7989.3
+-72.40172,-50.306828,8031.6
+-72.40526,-50.30722,8088.0
+-72.40988,-50.307568,8129.7
+-72.41371,-50.30772,8163.2
+-72.417915,-50.307888,8210.6
+-72.42211,-50.308144,8253.9
+-72.42642,-50.308487,8294.0
+-72.43023,-50.30874,8327.3
+-72.43512,-50.309204,8387.3
+-72.43931,-50.30983,8422.9
+-72.442986,-50.310333,8463.0
+-72.44724,-50.31085,8511.0
+-72.452126,-50.311222,8543.8
+-72.45642,-50.31151,8590.1
+-72.46097,-50.311726,8644.9
+-72.46511,-50.311832,8677.3
+-72.46949,-50.31195,8727.4
+-72.474045,-50.31218,8778.7
+-72.47867,-50.31248,8813.5
+-72.48318,-50.312813,8865.9
+-72.487854,-50.31323,8908.6
+-72.49301,-50.313644,8946.3
+-72.497635,-50.313942,8998.7
+-72.50187,-50.314217,9048.0
+-72.50668,-50.31438,9088.7
+-72.51164,-50.31451,9127.9
+-72.517136,-50.314705,9164.2
+-72.521614,-50.31492,9208.7
+-72.52665,-50.315212,9249.5
+-72.531746,-50.315506,9289.3
+-72.53577,-50.31573,9330.8
+-72.542404,-50.315926,9379.6
+-72.5476,-50.31598,9417.5
+-72.55276,-50.315952,9452.0
+-72.557465,-50.31596,9503.3
+-72.56333,-50.3161,9539.2
+-72.56813,-50.316273,9578.8
+-72.57348,-50.316525,9617.5
+-72.578835,-50.316826,9655.4
+-72.58419,-50.317,9691.1
+-72.5895,-50.317066,9729.5
+-72.59486,-50.317123,9770.5
+-72.600174,-50.317326,9799.3
+-72.605576,-50.31761,9835.7
+-72.611046,-50.317757,9865.2
+-72.61646,-50.317883,9897.1
+-72.621895,-50.318188,9929.0
+-72.62792,-50.31862,9954.3
+-72.63282,-50.318733,9982.2
+-72.63823,-50.3189,10016.6
+-72.64362,-50.31893,10045.6
+-72.64913,-50.318874,10077.9
+-72.65461,-50.31888,10096.5
+-72.659996,-50.319054,10129.1
+-72.6649,-50.3193,10159.6
+-72.671524,-50.319534,10182.8
+-72.67706,-50.31966,10213.6
+-72.68213,-50.31977,10246.5
+-72.68726,-50.31976,10274.7
+-72.69356,-50.3197,10308.9
+-72.69994,-50.319683,10350.9
+-72.70589,-50.31982,10383.0
+-72.711845,-50.320057,10410.9
+-72.71786,-50.320408,10451.9
+-72.72394,-50.320774,10494.9
+-72.730064,-50.321033,10537.5
+-72.735634,-50.321247,10579.5
+-72.74257,-50.32149,10619.9
+-72.74763,-50.321625,10659.6
+-72.75472,-50.321754,10705.0
+-72.761925,-50.321968,10738.7
+-72.76776,-50.322212,10782.0
+-72.774124,-50.322475,10828.4
+-72.78057,-50.322697,10890.3
+-72.78606,-50.322872,10977.7
+-72.790436,-50.32283,11050.6
+-72.796425,-50.32272,11113.6
+-72.80195,-50.32258,11170.6
+-72.80823,-50.322296,11222.6
+-72.814095,-50.322018,11266.9
+-72.82006,-50.32175,11311.8
+-72.826,-50.321457,11367.1
+-72.83192,-50.321213,11423.2
+-72.838,-50.32104,11480.0
+-72.84397,-50.320667,11521.0
+-72.84905,-50.320145,11589.0
+-72.85513,-50.319405,11661.1
+-72.860664,-50.318726,11725.8
+-72.8653,-50.3182,11776.6
+-72.87259,-50.31727,11803.4
+-72.87731,-50.316513,11858.3
+-72.88449,-50.31535,11909.7
+-72.88941,-50.314625,11950.9
+-72.89678,-50.313614,11992.2
+-72.90305,-50.312714,12032.3
+-72.90934,-50.311913,12064.4
+-72.91436,-50.31137,12104.9
+-72.921394,-50.3108,12134.2
+-72.9279,-50.31042,12149.2
+-72.93455,-50.31012,12163.5
+-72.94186,-50.309853,12171.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.94186,-50.309853,12171.3
+-72.94849,-50.309704,12193.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.94849,-50.309704,12193.5
+-72.95517,-50.309452,12205.4
+-72.96115,-50.309227,12211.9
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.96115,-50.309227,12211.9
+-72.967766,-50.308865,12223.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.967766,-50.308865,12223.8
+-72.974304,-50.308624,12223.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.974304,-50.308624,12223.1
+-72.98137,-50.308414,12235.7
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.98137,-50.308414,12235.7
+-72.987816,-50.308426,12244.9
+-72.99433,-50.308376,12243.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.99433,-50.308376,12243.5
+-72.99951,-50.308327,12246.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-72.99951,-50.308327,12246.6
+-73.00738,-50.308052,12262.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.00738,-50.308052,12262.3
+-73.014015,-50.307686,12269.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.014015,-50.307686,12269.4
+-73.020805,-50.307285,12282.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.020805,-50.307285,12282.0
+-73.027626,-50.30702,12287.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.027626,-50.30702,12287.5
+-73.034424,-50.306824,12312.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.034424,-50.306824,12312.0
+-73.04133,-50.306828,12332.1
+-73.04754,-50.306774,12353.9
+-73.055176,-50.30668,12384.6
+-73.0624,-50.306656,12399.9
+-73.06972,-50.3066,12419.3
+-73.07731,-50.306515,12444.9
+-73.08431,-50.306374,12462.9
+-73.09187,-50.306038,12495.6
+-73.0999,-50.30584,12544.0
+-73.10639,-50.305683,12584.8
+-73.11355,-50.30573,12612.8
+-73.12068,-50.3059,12636.3
+-73.12843,-50.306202,12653.0
+-73.13464,-50.306496,12674.1
+-73.1415,-50.30672,12690.1
+-73.14831,-50.306755,12701.7
+-73.15564,-50.30678,12707.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.15564,-50.30678,12707.3
+-73.162224,-50.306854,12715.1
+-73.167465,-50.307117,12703.4
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.167465,-50.307117,12703.4
+-73.1746,-50.30761,12693.5
+-73.18101,-50.30784,12688.4
+-73.18729,-50.30747,12686.7
+-73.19352,-50.306316,12685.7
+-73.199524,-50.304466,12675.1
+-73.205215,-50.30177,12674.4
+-73.210625,-50.298275,12659.4
+-73.21589,-50.29372,12644.5
+-73.22009,-50.289005,12647.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.22009,-50.289005,12647.5
+-73.223816,-50.283688,12637.6
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ffff0000</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.223816,-50.283688,12637.6
+-73.22677,-50.277855,12626.1
+-73.22875,-50.27151,12625.0
+-73.23003,-50.264736,12614.5
+-73.23049,-50.25758,12600.9
+-73.22992,-50.250084,12585.2
+-73.22727,-50.242126,12573.6
+-73.222595,-50.234005,12550.1
+-73.21735,-50.227543,12532.4
+-73.20976,-50.219673,12510.6
+-73.20112,-50.211216,12508.9
+-73.19319,-50.20352,12503.1
+-73.18465,-50.195915,12491.9
+-73.17536,-50.188633,12489.8
+-73.16537,-50.1817,12508.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.16537,-50.1817,12508.2
+-73.15402,-50.174397,12515.0
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.15402,-50.174397,12515.0
+-73.14387,-50.167862,12533.1
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.14387,-50.167862,12533.1
+-73.134056,-50.161232,12555.9
+-73.12663,-50.154804,12569.2
+-73.120895,-50.14804,12589.6
+-73.11594,-50.138836,12617.9
+-73.11403,-50.13129,12639.7
+-73.11356,-50.123894,12664.6
+-73.11469,-50.116825,12669.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.11469,-50.116825,12669.3
+-73.11582,-50.111275,12684.3
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.11582,-50.111275,12684.3
+-73.11734,-50.103718,12703.7
+-73.118675,-50.096745,12722.6
+-73.1199,-50.089714,12728.5
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ffff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.1199,-50.089714,12728.5
+-73.12086,-50.08267,12745.8
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff0000ff</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.12086,-50.08267,12745.8
+-73.12238,-50.075047,12756.4
+-73.12477,-50.06836,12759.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+	<Placemark>
+	<Style> <LineStyle>
+	<color>#ff00ff00</color>
+	<width>3</width>
+	</LineStyle>
+	</Style>
+	<LineString>
+		<altitudeMode>absolute</altitudeMode>
+		<extrude>1</extrude>
+	<coordinates>
+-73.12477,-50.06836,12759.2
+	</coordinates>
+	</LineString>
+	</Placemark>
+</Document>
+</kml>
