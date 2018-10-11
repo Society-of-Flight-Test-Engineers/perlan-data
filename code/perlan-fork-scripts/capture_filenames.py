@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd 
 
 
@@ -39,11 +40,34 @@ def filenames2df(fname_list):
     return pd.concat(pd_list, ignore_index=True)
 
 
-def df_to_everything(df, dirname = 'C:/Users/natha/OneDrive - Georgia Institute of Technology/Perlan/perlan-data/code/perlan-fork-scripts'):
+def df_to_everything(df, dirname = 'C:/Users/natha/OneDrive - Georgia Institute of Technology/Perlan/perlan-data/products'):
 # Convert the DataFrame to every file format in 
 # https://pandas.pydata.org/pandas-docs/stable/io.html
 # except "Local clipboard"
 
-    # Create pathname for csv file that will capture the filenames
+    # Create pathname for files that will capture the filenames
     filepath = dirname + '/filenames'
-
+    print(filepath)
+    df.to_csv(filepath + '.csv')
+    print('csv made')
+    df.to_json(filepath + '.json')
+    print('json made')
+    df.to_html(filepath + '.html')
+    print('html made')
+    df.to_excel(filepath + '.xlsx', engine='xlsxwriter') # requires xlsxwriter
+    print('excel made')
+    df.to_hdf(filepath + '.h5', key='df', mode='w') # requires pytables
+    print('hdf5 made')
+    # Feather is deprecated
+    # df.to_feather(filepath + '.feather') # requires installation of feather-format https://anaconda.org/conda-forge/feather-format
+    # print('feather made')
+    df.to_parquet(filepath + '.parquet', engine='pyarrow') # requires pyarrow
+    print('parquet made')
+    df.to_msgpack(filepath + '.msg')
+    print('msgpack made')
+    df.to_stata(filepath + '.dta')
+    print('stata made')
+    df.to_pickle(filepath + '.pkl')
+    print('pkl made')
+    # df.to_sql(filepath + '.')
+    # df.to_gbq(filepath + '.')
